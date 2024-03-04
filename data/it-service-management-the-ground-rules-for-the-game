@@ -1,0 +1,62 @@
+{
+   "id": 1,
+   "linkurl": "it-service-management-the-ground-rules-for-the-game",
+   "image": "https://admin-globallynx.s3.us-east-1.amazonaws.com/gallery/image_2023_06_09T18_24_01_409Z.png",
+   "article": "IT Service Management: The Ground Rules for the Game",
+   "category": "IT Service Management",
+   "date": "30 Mar 2023",
+   "author": "Manuel Garcia",
+   "content": [
+      {
+         "idx" : 1,
+         "title" : "",
+         "paragraphs" : [
+           { "idx":"1.1", "info":"You are at the beach with friends, the sun is high, the sea is calm, and the environment is inviting. Someone throws the ball and that's all that is needed. Two teams are quickly gathered and it is game time!" },
+           { "idx":"1.2", "info":"A pickup football game has begun; one team has 8 players, the other has 9, but nobody cares. There are no formal rules, there is no timer, no way to measure yards, no 1st and ten, but everyone is having fun, and that is what matters. The game will last for one, two, or even three hours; who knows, and moreover, who cares! Do you get the picture? Ok, now let's get to the main point of this article." }
+         ]
+      },
+      {
+         "idx" : 2,
+         "title" : "How is your IT Game Being Played?",
+         "paragraphs" : [
+            { "idx":"2.1", "info":"This is an analogy of what your IT organization might be doing while delivering services to the business—your customer—without having an IT Service Management (ITSM) framework defined. I'm not talking about having a resource such as a ticketing tool (like ServiceNow™) or how roles and departments are organized; I'm referring to the definition of practices and measurements that will set the rules for how the IT game should be played." }
+         ]
+      },
+      {
+         "idx" : 3,
+         "title" : "It's All About Value",
+         "paragraphs" : [
+            { "idx":"3.1", "info":"In the example of the football game at the beach, it is clear that the purpose is having fun. Nothing happens if your team wins or loses; it's all just for having a good time with friends, or even making new friends. In the business environment the goal is quite different; it's all about delivering value to the customer. Yes, the IT organization serves a business that needs to be profitable, beat competitors and deliver quality services to its customers. And it happens that as digital transformation advances, the role of IT in supporting those goals is more and more important each day." },
+            { "idx":"3.2", "info":"Therefore, the business doesn't care much if IT staff are having fun, or how tired they are from spending long hours working, supporting users and fixing bugs. The business wants results, while IT wants to enable the desired outcomes through the services they are delivering. That's what value is about." },
+            { "idx":"3.3", "info":"How can this be achieved if there are no ground rules for the activities that IT is performing? It's just like playing football at the beach; it might be fun, but it is informal." }
+         ]
+      },
+      {
+         "idx" : 4,
+         "title" : "The Bottom Line",
+         "paragraphs" : [
+            { "idx":"4.1", "info":"Adopting an IT Service Management (ITSM) framework is like painting the lines of a football field in the ground. You paint yards, you set rules, you set the field goal at the regulation height, you define ways to measure performance and progress; generally speaking, you define formal game rules." },
+            { "idx":"4.2", "info":"An ITSM framework will set a baseline for how the IT organization should perform, and set expectations on what your customer will receive from IT. Goals and KPIs will be defined to help monitor performance, track measurement, and guide what corrective action may be needed. ITSM is the framework that dictates how the IT game is played with the goal of delivering value to your customer." }
+         ]
+      },
+      {
+         "idx" : 5,
+         "title" : "The Basis for Digital Transformation",
+         "paragraphs" : [
+            { "idx":"5.1", "info":"Additionally, developing a solid ITSM framework will provide the basis for achieving higher maturity of the people, processes or practices, and technology involved in the IT organization. This will facilitate the adoption of new technologies or initiatives such as the Cloud, DevOps, AI, and more. If the operational definitions in IT are broken, you cannot aspire to deliver high value to your customer through more advanced initiatives that are driving digital transformation." }
+         ]
+      },
+      {
+         "idx" : 6,
+         "title" : "Take Action Now!",
+         "paragraphs" : [
+            { "idx":"6.1", "info":"If you want to learn how Global Lynx can help your IT organization define or assess your ITSM framework, contact us today." }
+         ]
+      }
+   ],
+   "prev": "An Advice for DevOps Adopters: Avoid the Cultural Debt",
+   "prevlink": "an-advice-for-devops-adopters-avoid-the-cultural-debt",
+   "next": "Attaining Visibility in an IT-DevOps Environment",
+   "nextlink": "attaining-visibility-in-an-it-devops-environment",
+   "tags": "IT Service Management, IT Service Management Consulting, ITSM"
+}

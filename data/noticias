@@ -1,0 +1,47 @@
+[
+   {  "id": 1,
+      "linkurl": "it-service-management-the-ground-rules-for-the-game",
+      "image": "https://admin-globallynx.s3.us-east-1.amazonaws.com/gallery/image_2023_06_09T18_24_01_409Z.png",
+      "article": "IT Service Management: The Ground Rules for the Game",
+      "category": "IT Service Management",
+      "date": "28 Jul 2023",
+      "author": "Manuel Garcia",
+      "info": "You are at the beach with friends, the sun is high, the sea is calm, and the environment is inviting…."
+   },
+   {  "id": 2,
+      "linkurl": "attaining-visibility-in-an-it-devops-environment",
+      "image": "https://admin-globallynx.s3.us-east-1.amazonaws.com/gallery/image_2023_06_09T18_24_05_482Z.png",
+      "article": "Attaining Visibility in an IT-DevOps Environment",
+      "category": "DevOps, Digital Transformation",
+      "date": "17 Mar 2023",
+      "author": "Jack Maher",
+      "info": "Many people dream of being invisible, a superpower that has intrigued man since time immemorial. In today's world of business and…"
+   },
+   {  "id": 3,
+      "linkurl": "the-best-first-step-to-take-when-adopting-devops",
+      "image": "https://admin-globallynx.s3.us-east-1.amazonaws.com/gallery/image_2023_06_09T18_24_09_817Z.png",
+      "article": "The Best First Step to Take when Adopting DevOps",
+      "category": "Digital Transformation",
+      "date": "5 Mar 2023",
+      "author": "Manuel Garcia",
+      "info": "DevOps adoptions are certainly something going trendy; not really because of being popular, but rather because our times demand it…."
+   },
+   {  "id": 4,
+      "linkurl": "global-lynx-to-finish-2021-strong-tripling-revenue-from-previous-years",
+      "image": "https://admin-globallynx.s3.us-east-1.amazonaws.com/gallery/image_2023_06_09T18_24_13_813Z.png",
+      "article": "Global Lynx to finish 2021 strong, tripling revenue from previous years",
+      "category": "Workforce Development",
+      "date": "20 Feb 2023",
+      "author": "Global Lynx",
+      "info": "Columbus, Ohio, based IT consulting and training provider, Global Lynx, USA, will finish 2021 in the black, nearly tripling revenue…"
+   },
+   {  "id": 5,
+      "linkurl": "an-advice-for-devops-adopters-avoid-the-cultural-debt",
+      "image": "https://admin-globallynx.s3.us-east-1.amazonaws.com/gallery/image_2023_06_09T18_24_19_352Z.png",
+      "article": "An Advice for DevOps Adopters: Avoid the Cultural Debt",
+      "category": "DevOps",
+      "date": "10 Feb 2023",
+      "author": "Global Lynx",
+      "info": "As IT organizations embrace DevOps, there is a very high risk of falling into one of the darkest—yet most common—pitfalls:…"
+   }
+]
