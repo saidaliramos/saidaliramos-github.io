@@ -1,0 +1,9 @@
+{
+  "id": 4,
+  "categoria": "motorsports",
+  "ruta_imagen_noticia": "asdads",
+  "titulo_noticia": "Sonora Rally",
+  "fecha_noticia": "2021-08-13 00:00:00",
+  "descripcion_noticia": "El Sonora Rally, se lleva a cabo en el increíble desierto de Sonora, es un rally de navegación al estilo “Dakar” de cinco días y se ha convertido en el principal evento de rally a campo traviesa en América del Norte. Los corredores son desafiados a una intensa prueba de navegación y habilidades de carreras todoterreno mientras están rodeados por el hermoso y único paisaje y la cultura de Sonora. El logo del Sonora Rally rinde homenaje a la Danza del Venado Yaqui y Mayo (Yoreme), o La Danza del Venado y es un poderoso símbolo del orgullo sonorense.",
+  "ruta_noticia": "/sonora-rally/"
+}
