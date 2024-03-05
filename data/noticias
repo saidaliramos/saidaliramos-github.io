@@ -1,15 +1,74 @@
 [
   {
-    "id": 1,
+    "id": 0,
     "categoria": "motorsports",
     "ruta_imagen_noticia": "asdads",
     "titulo_noticia": "SEMA 19",
     "fecha_noticia": "2021-08-13 00:00:00",
     "descripcion_noticia": "El evento dedicado a la transformación de automóviles más famoso del mundo, el Sema Show, celebró su edición 2019. Como es habitual tiene lugar en Las Vegas, Estados Unidos, y nos dejó varias sorpresas para nuestras llantas Yokohama. ¡Felicidades ADVAN Apex V601 y Geolandar X-AT!",
+    "contenido_noticia": [
+      {
+        "id": 0,
+        "tipo_seccion": "image",
+        "contenido_seccion": "/images/backgrounds/pages/somos-mas-que-llantas.jpg"
+      },
+      {
+        "id": 1,
+        "tipo_seccion": "paragraph",
+        "contenido_seccion": "El evento dedicado a la transformación de automóviles más famoso del mundo, el Sema Show, celebró su edición 2019. Como es habitual tiene lugar en Las Vegas, Estados Unidos, y nos dejó varias sorpresas para nuestras llantas Yokohama. ¡Felicidades ADVAN Apex V601 y Geolandar X-AT!"
+      },
+      {
+        "id": 2,
+        "tipo_seccion": "twinParagraphs",
+        "contenido_seccion": "El evento dedicado a la transformación de automóviles más famoso del mundo, el Sema Show, celebró su edición 2019. Como es habitual tiene lugar en Las Vegas, Estados Unidos, y nos dejó varias sorpresas para nuestras llantas Yokohama. ¡Felicidades ADVAN Apex V601 y Geolandar X-AT! El evento dedicado a la transformación de automóviles más famoso del mundo, el Sema Show, celebró su edición 2019. Como es habitual tiene lugar en Las Vegas, Estados Unidos, y nos dejó varias sorpresas para nuestras llantas Yokohama. ¡Felicidades ADVAN Apex V601 y Geolandar X-AT!"
+      },
+      {
+        "id": 3,
+        "tipo_seccion": "paragraphImage",
+        "contenido_seccion": [
+          {
+            "id": 0,
+            "parrafo": "El evento dedicado a la transformación de automóviles más famoso del mundo, el Sema Show, celebró su edición 2019. Como es habitual tiene lugar en Las Vegas, Estados Unidos, y nos dejó varias sorpresas para nuestras llantas Yokohama. ¡Felicidades ADVAN Apex V601 y Geolandar X-AT!"
+          },
+          {
+            "id": 1,
+            "imagen": "/images/backgrounds/pages/centroamerica.png"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "tipo_seccion": "imageParagraph",
+        "contenido_seccion": [
+          {
+            "id": 0,
+            "imagen": "/images/backgrounds/pages/medio-ambiente.jpeg"
+          },
+          {
+            "id": 1,
+            "parrafo": "El evento dedicado a la transformación de automóviles más famoso del mundo, el Sema Show, celebró su edición 2019. Como es habitual tiene lugar en Las Vegas, Estados Unidos, y nos dejó varias sorpresas para nuestras llantas Yokohama. ¡Felicidades ADVAN Apex V601 y Geolandar X-AT!"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "tipo_seccion": "twinImages",
+        "contenido_seccion": [
+          {
+            "id": 0,
+            "imagen": "/images/backgrounds/pages/centroamerica.png"
+          },
+          {
+            "id": 1,
+            "imagen_dos": "/images/backgrounds/pages/somos-mas-que-llantas.jpg"
+          }
+        ]
+      }
+    ],
     "ruta_noticia": "/sema-19/"
   },
   {
-    "id": 2,
+    "id": 1,
     "categoria": "motorsports",
     "ruta_imagen_noticia": "asdads",
     "titulo_noticia": "ADVAN Heritage",
@@ -18,7 +77,7 @@
     "ruta_noticia": "/advan-heritage/"
   },
   {
-    "id": 3,
+    "id": 2,
     "categoria": "motorsports",
     "ruta_imagen_noticia": "asdads",
     "titulo_noticia": "Baja 1000",
@@ -27,7 +86,7 @@
     "ruta_noticia": "/baja-1000/"
   },
   {
-    "id": 4,
+    "id": 3,
     "categoria": "motorsports",
     "ruta_imagen_noticia": "asdads",
     "titulo_noticia": "Sonora Rally",
@@ -36,7 +95,7 @@
     "ruta_noticia": "/sonora-rally/"
   },
   {
-    "id": 5,
+    "id": 4,
     "categoria": "motorsports",
     "ruta_imagen_noticia": "asdads",
     "titulo_noticia": "NORRA MEXICAN 1000",
@@ -45,7 +104,7 @@
     "ruta_noticia": "/norra-mexican-1000/"
   },
   {
-    "id": 6,
+    "id": 5,
     "categoria": "motorsports",
     "ruta_imagen_noticia": "asdads",
     "titulo_noticia": "BAJA 500",
@@ -54,7 +113,7 @@
     "ruta_noticia": "/baja-500/"
   },
   {
-    "id": 7,
+    "id": 6,
     "categoria": "motorsports",
     "ruta_imagen_noticia": "asdads",
     "titulo_noticia": "PIKES PEAK 2019",
@@ -63,7 +122,7 @@
     "ruta_noticia": "/pikes-peak-2019/"
   },
   {
-    "id": 8,
+    "id": 7,
     "categoria": "motorsports",
     "ruta_imagen_noticia": "asdads",
     "titulo_noticia": "GT3 CUP 2019",
@@ -72,7 +131,7 @@
     "ruta_noticia": "/gt3-cup-2019/"
   },
   {
-    "id": 9,
+    "id": 8,
     "categoria": "motorsports",
     "ruta_imagen_noticia": "asdads",
     "titulo_noticia": "KOH 2019",
