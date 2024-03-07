@@ -1,9 +1,26 @@
 {
-  "id": 2,
+  "id": 3,
   "categoria": "motorsports",
   "ruta_imagen_noticia": "asdads",
   "titulo_noticia": "Baja 1000",
   "fecha_noticia": "2021-08-13 00:00:00",
   "descripcion_noticia": "Carrera mexicana de deportes de motor todo terreno que se celebra cada año en la península de Baja California. Es una de las carreras todo terreno más prestigiosas del mundo, que atrae a competidores de categoría internacional. La carrera es la ronda final de una serie anual de cuatro carreras, que incluye el SCORE Desert Challenge, el SCORE San Felipe 250 y el SCORE Baja 500.",
+  "contenido_noticia": [
+    {
+      "id": 1,
+      "tipo_seccion": "paragraph",
+      "contenido_seccion": "Carrera mexicana de deportes de motor todo terreno que se celebra cada año en la península de Baja California.\n Es una de las carreras todo terreno más prestigiosas del mundo, que atrae a competidores de categoría internacional. La carrera es la ronda final de una serie anual de cuatro carreras, que incluye el SCORE Desert Challenge, el SCORE San Felipe 250 y el SCORE Baja 500."
+    },
+    {
+      "id": 2,
+      "tipo_seccion": "twinImages",
+      "contenido_seccion": [
+        {
+          "id": 0,
+          "imagen": "/images/backgrounds/pages/centroamerica.png"
+        }
+      ]
+    }
+  ],
   "ruta_noticia": "/baja-1000/"
 }

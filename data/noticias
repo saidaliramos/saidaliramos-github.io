@@ -1,6 +1,6 @@
 [
   {
-    "id": 0,
+    "id": 1,
     "categoria": "motorsports",
     "ruta_imagen_noticia": "asdads",
     "titulo_noticia": "SEMA 19",
@@ -8,45 +8,49 @@
     "descripcion_noticia": "El evento dedicado a la transformación de automóviles más famoso del mundo, el Sema Show, celebró su edición 2019. Como es habitual tiene lugar en Las Vegas, Estados Unidos, y nos dejó varias sorpresas para nuestras llantas Yokohama. ¡Felicidades ADVAN Apex V601 y Geolandar X-AT!",
     "contenido_noticia": [
       {
-        "id": 0,
-        "tipo_seccion": "image",
-        "contenido_seccion": "/images/backgrounds/pages/somos-mas-que-llantas.jpg"
-      },
-      {
         "id": 1,
         "tipo_seccion": "paragraph",
         "contenido_seccion": "El evento dedicado a la transformación de automóviles más famoso del mundo, el Sema Show, celebró su edición 2019. Como es habitual tiene lugar en Las Vegas, Estados Unidos, y nos dejó varias sorpresas para nuestras llantas Yokohama. ¡Felicidades ADVAN Apex V601 y Geolandar X-AT!"
       },
       {
         "id": 2,
-        "tipo_seccion": "twinParagraphs",
-        "contenido_seccion": "El evento dedicado a la transformación de automóviles más famoso del mundo, el Sema Show, celebró su edición 2019. Como es habitual tiene lugar en Las Vegas, Estados Unidos, y nos dejó varias sorpresas para nuestras llantas Yokohama. ¡Felicidades ADVAN Apex V601 y Geolandar X-AT! El evento dedicado a la transformación de automóviles más famoso del mundo, el Sema Show, celebró su edición 2019. Como es habitual tiene lugar en Las Vegas, Estados Unidos, y nos dejó varias sorpresas para nuestras llantas Yokohama. ¡Felicidades ADVAN Apex V601 y Geolandar X-AT!"
-      },
-      {
-        "id": 3,
-        "tipo_seccion": "paragraphImage",
+        "tipo_seccion": "twinImages",
         "contenido_seccion": [
           {
             "id": 0,
-            "parrafo": "El evento dedicado a la transformación de automóviles más famoso del mundo, el Sema Show, celebró su edición 2019. Como es habitual tiene lugar en Las Vegas, Estados Unidos, y nos dejó varias sorpresas para nuestras llantas Yokohama. ¡Felicidades ADVAN Apex V601 y Geolandar X-AT!"
+            "imagen": "/images/backgrounds/pages/centroamerica.png"
           },
           {
             "id": 1,
+            "imagen_dos": "/images/backgrounds/pages/somos-mas-que-llantas.jpg"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "tipo_seccion": "twinImages",
+        "contenido_seccion": [
+          {
+            "id": 0,
             "imagen": "/images/backgrounds/pages/centroamerica.png"
+          },
+          {
+            "id": 1,
+            "imagen_dos": "/images/backgrounds/pages/somos-mas-que-llantas.jpg"
           }
         ]
       },
       {
         "id": 4,
-        "tipo_seccion": "imageParagraph",
+        "tipo_seccion": "twinImages",
         "contenido_seccion": [
           {
             "id": 0,
-            "imagen": "/images/backgrounds/pages/medio-ambiente.jpeg"
+            "imagen": "/images/backgrounds/pages/centroamerica.png"
           },
           {
             "id": 1,
-            "parrafo": "El evento dedicado a la transformación de automóviles más famoso del mundo, el Sema Show, celebró su edición 2019. Como es habitual tiene lugar en Las Vegas, Estados Unidos, y nos dejó varias sorpresas para nuestras llantas Yokohama. ¡Felicidades ADVAN Apex V601 y Geolandar X-AT!"
+            "imagen_dos": "/images/backgrounds/pages/somos-mas-que-llantas.jpg"
           }
         ]
       },
@@ -63,80 +67,604 @@
             "imagen_dos": "/images/backgrounds/pages/somos-mas-que-llantas.jpg"
           }
         ]
+      },
+      {
+        "id": 6,
+        "tipo_seccion": "twinImages",
+        "contenido_seccion": [
+          {
+            "id": 0,
+            "imagen": "/images/backgrounds/pages/centroamerica.png"
+          },
+          {
+            "id": 1,
+            "imagen_dos": "/images/backgrounds/pages/somos-mas-que-llantas.jpg"
+          }
+        ]
       }
     ],
     "ruta_noticia": "/sema-19/"
   },
   {
-    "id": 1,
+    "id": 2,
     "categoria": "motorsports",
     "ruta_imagen_noticia": "asdads",
     "titulo_noticia": "ADVAN Heritage",
     "fecha_noticia": "2021-08-13 00:00:00",
     "descripcion_noticia": "En Yokohama creamos nuestros propios equipos de carreras. Los directores, mecánicos y conductores se reunieron para crear nuestros propios equipos de carreras independientes en 1979. La llanta ideal elegida fue la familia ADVAN, el primer neumático radial deportivo de Japón. Los equipos de Yokohama empezaron a ganar, por todo el mundo. Cualquier automóvil vestido de rojo con negro, donde la pasión se encuentra con el asfalto, se convirtió en un gran e imponente contendiente en el mundo automovilístico. Y así comenzó el legado que se convertiría en Yokohama ADVAN. Presentamos la edición 2019.",
+    "contenido_noticia": [
+      {
+        "id": 1,
+        "tipo_seccion": "paragraph",
+        "contenido_seccion": "En Yokohama creamos nuestros propios equipos de carreras. Los directores, mecánicos y conductores se reunieron para crear nuestros propios equipos de carreras independientes en 1979.\n La llanta ideal elegida fue la familia ADVAN, el primer neumático radial deportivo de Japón.\n Los equipos de Yokohama empezaron a ganar, por todo el mundo. Cualquier automóvil vestido de rojo con negro, donde la pasión se encuentra con el asfalto, se convirtió en un gran e imponente contendiente en el mundo automovilístico.\n Y así comenzó el legado que se convertiría en Yokohama ADVAN. Presentamos la edición 2019."
+      },
+      {
+        "id": 2,
+        "tipo_seccion": "twinImages",
+        "contenido_seccion": [
+          {
+            "id": 0,
+            "imagen": "/images/backgrounds/pages/centroamerica.png"
+          },
+          {
+            "id": 1,
+            "imagen_dos": "/images/backgrounds/pages/somos-mas-que-llantas.jpg"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "tipo_seccion": "twinImages",
+        "contenido_seccion": [
+          {
+            "id": 0,
+            "imagen": "/images/backgrounds/pages/centroamerica.png"
+          },
+          {
+            "id": 1,
+            "imagen_dos": "/images/backgrounds/pages/somos-mas-que-llantas.jpg"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "tipo_seccion": "twinImages",
+        "contenido_seccion": [
+          {
+            "id": 0,
+            "imagen": "/images/backgrounds/pages/centroamerica.png"
+          },
+          {
+            "id": 1,
+            "imagen_dos": "/images/backgrounds/pages/somos-mas-que-llantas.jpg"
+          }
+        ]
+      }
+    ],
     "ruta_noticia": "/advan-heritage/"
-  },
-  {
-    "id": 2,
-    "categoria": "motorsports",
-    "ruta_imagen_noticia": "asdads",
-    "titulo_noticia": "Baja 1000",
-    "fecha_noticia": "2021-08-13 00:00:00",
-    "descripcion_noticia": "Carrera mexicana de deportes de motor todo terreno que se celebra cada año en la península de Baja California. Es una de las carreras todo terreno más prestigiosas del mundo, que atrae a competidores de categoría internacional. La carrera es la ronda final de una serie anual de cuatro carreras, que incluye el SCORE Desert Challenge, el SCORE San Felipe 250 y el SCORE Baja 500.",
-    "ruta_noticia": "/baja-1000/"
   },
   {
     "id": 3,
     "categoria": "motorsports",
     "ruta_imagen_noticia": "asdads",
-    "titulo_noticia": "Sonora Rally",
+    "titulo_noticia": "Baja 1000",
     "fecha_noticia": "2021-08-13 00:00:00",
-    "descripcion_noticia": "El Sonora Rally, se lleva a cabo en el increíble desierto de Sonora, es un rally de navegación al estilo “Dakar” de cinco días y se ha convertido en el principal evento de rally a campo traviesa en América del Norte. Los corredores son desafiados a una intensa prueba de navegación y habilidades de carreras todoterreno mientras están rodeados por el hermoso y único paisaje y la cultura de Sonora. El logo del Sonora Rally rinde homenaje a la Danza del Venado Yaqui y Mayo (Yoreme), o La Danza del Venado y es un poderoso símbolo del orgullo sonorense.",
-    "ruta_noticia": "/sonora-rally/"
+    "descripcion_noticia": "Carrera mexicana de deportes de motor todo terreno que se celebra cada año en la península de Baja California. Es una de las carreras todo terreno más prestigiosas del mundo, que atrae a competidores de categoría internacional. La carrera es la ronda final de una serie anual de cuatro carreras, que incluye el SCORE Desert Challenge, el SCORE San Felipe 250 y el SCORE Baja 500.",
+    "contenido_noticia": [
+      {
+        "id": 1,
+        "tipo_seccion": "paragraph",
+        "contenido_seccion": "Carrera mexicana de deportes de motor todo terreno que se celebra cada año en la península de Baja California.\n Es una de las carreras todo terreno más prestigiosas del mundo, que atrae a competidores de categoría internacional. La carrera es la ronda final de una serie anual de cuatro carreras, que incluye el SCORE Desert Challenge, el SCORE San Felipe 250 y el SCORE Baja 500."
+      },
+      {
+        "id": 2,
+        "tipo_seccion": "twinImages",
+        "contenido_seccion": [
+          {
+            "id": 0,
+            "imagen": "/images/backgrounds/pages/centroamerica.png"
+          }
+        ]
+      }
+    ],
+    "ruta_noticia": "/baja-1000/"
   },
   {
     "id": 4,
     "categoria": "motorsports",
     "ruta_imagen_noticia": "asdads",
-    "titulo_noticia": "NORRA MEXICAN 1000",
-    "fecha_noticia": "2021-08-06 00:00:00",
-    "descripcion_noticia": "Ningún otro evento de carreras sumerge a los competidores en la comida, bebida, cultura y belleza de Baja, como el Yokohama NORRA Mexican 1000 – “¡La carrera más feliz de la tierra!”, Y los competidores abarcan desde íconos de carreras todo terreno. NORRA tiene clases para bicicletas, quads, UTV y clases de 4 ruedas para todo terreno, desde vehículos antiguos hasta autos de carrera de última generación. Incluso existe la clase Savvy Safari para vehículos originales y vehículos OEM ligeramente modificados (vehículos que no son de carrera). NORRA rinde homenaje al pasado y celebra el futuro.",
-    "ruta_noticia": "/norra-mexican-1000/"
+    "titulo_noticia": "Sonora Rally",
+    "fecha_noticia": "2021-08-13 00:00:00",
+    "descripcion_noticia": "El Sonora Rally, se lleva a cabo en el increíble desierto de Sonora, es un rally de navegación al estilo “Dakar” de cinco días y se ha convertido en el principal evento de rally a campo traviesa en América del Norte. Los corredores son desafiados a una intensa prueba de navegación y habilidades de carreras todoterreno mientras están rodeados por el hermoso y único paisaje y la cultura de Sonora. El logo del Sonora Rally rinde homenaje a la Danza del Venado Yaqui y Mayo (Yoreme), o La Danza del Venado y es un poderoso símbolo del orgullo sonorense.",
+    "contenido_noticia": [
+      {
+        "id": 1,
+        "tipo_seccion": "paragraph",
+        "contenido_seccion": "El Sonora Rally, se lleva a cabo en el increíble desierto de Sonora, es un rally de navegación al estilo “Dakar” de cinco días y se ha convertido en el principal evento de rally a campo traviesa en América del Norte. Los corredores son desafiados a una intensa prueba de navegación y habilidades de carreras todoterreno mientras están rodeados por el hermoso y único paisaje y la cultura de Sonora. El logo del Sonora Rally rinde homenaje a la Danza del Venado Yaqui y Mayo (Yoreme), o La Danza del Venado y es un poderoso símbolo del orgullo sonorense."
+      },
+      {
+        "id": 2,
+        "tipo_seccion": "twinImages",
+        "contenido_seccion": [
+          {
+            "id": 0,
+            "imagen": "/images/backgrounds/pages/centroamerica.png"
+          }
+        ]
+      }
+    ],
+    "ruta_noticia": "/sonora-rally/"
   },
   {
     "id": 5,
     "categoria": "motorsports",
     "ruta_imagen_noticia": "asdads",
-    "titulo_noticia": "BAJA 500",
+    "titulo_noticia": "NORRA MEXICAN 1000",
     "fecha_noticia": "2021-08-06 00:00:00",
-    "descripcion_noticia": "Se necesita increíble rudeza y dureza para conquistar el desierto, y aún más para conquistar la competencia. Las carreras en el desierto hacen que los conductores de docenas de clases de carreras se enfrenten a un calor agotador y a un terreno variado. Desde aventuras de un punto a otro en grandes extensiones del norte de México hasta carreras en bucle centradas en los ejes del deporte, cada evento presenta un desafío diferente a algunas de las máquinas más avanzadas del mundo y a los corredores más talentosos.",
-    "ruta_noticia": "/baja-500/"
+    "descripcion_noticia": "Ningún otro evento de carreras sumerge a los competidores en la comida, bebida, cultura y belleza de Baja, como el Yokohama NORRA Mexican 1000 - “¡La carrera más feliz de la tierra!”, Y los competidores abarcan desde íconos de carreras todo terreno. NORRA tiene clases para bicicletas, quads, UTV y clases de 4 ruedas para todo terreno, desde vehículos antiguos hasta autos de carrera de última generación. Incluso existe la clase Savvy Safari para vehículos originales y vehículos OEM ligeramente modificados (vehículos que no son de carrera). NORRA rinde homenaje al pasado y celebra el futuro.",
+    "contenido_noticia": [
+      {
+        "id": 1,
+        "tipo_seccion": "paragraph",
+        "contenido_seccion": "Ningún otro evento de carreras sumerge a los competidores en la comida, bebida, cultura y belleza de Baja, como el Yokohama NORRA Mexican 1000 - “¡La carrera más feliz de la tierra!”, Y los competidores abarcan desde íconos de carreras todo terreno. NORRA tiene clases para bicicletas, quads, UTV y clases de 4 ruedas para todo terreno, desde vehículos antiguos hasta autos de carrera de última generación. Incluso existe la clase Savvy Safari para vehículos originales y vehículos OEM ligeramente modificados (vehículos que no son de carrera). NORRA rinde homenaje al pasado y celebra el futuro."
+      },
+      {
+        "id": 2,
+        "tipo_seccion": "twinImages",
+        "contenido_seccion": [
+          {
+            "id": 0,
+            "imagen": "/images/backgrounds/pages/centroamerica.png"
+          },
+          {
+            "id": 1,
+            "imagen_dos": "/images/backgrounds/pages/somos-mas-que-llantas.jpg"
+          }
+        ]
+      }
+    ],
+    "ruta_noticia": "/norra-mexican-1000/"
   },
   {
     "id": 6,
     "categoria": "motorsports",
     "ruta_imagen_noticia": "asdads",
-    "titulo_noticia": "PIKES PEAK 2019",
+    "titulo_noticia": "BAJA 500",
     "fecha_noticia": "2021-08-06 00:00:00",
-    "descripcion_noticia": "Una carrera de 156 vueltas y 12,42 millas hasta la cima de uno de los circuitos de competición más desafiantes jamás conocidos. Un evento anual como ningún otro, el Pikes Peak International Hill Climb pone a prueba a los conductores a través de 156 de los giros más desafiantes y peligrosos del mundo.",
-    "ruta_noticia": "/pikes-peak-2019/"
+    "descripcion_noticia": "Se necesita increíble rudeza y dureza para conquistar el desierto, y aún más para conquistar la competencia. Las carreras en el desierto hacen que los conductores de docenas de clases de carreras se enfrenten a un calor agotador y a un terreno variado. Desde aventuras de un punto a otro en grandes extensiones del norte de México hasta carreras en bucle centradas en los ejes del deporte, cada evento presenta un desafío diferente a algunas de las máquinas más avanzadas del mundo y a los corredores más talentosos.",
+    "contenido_noticia": [
+      {
+        "id": 1,
+        "tipo_seccion": "paragraph",
+        "contenido_seccion": "Se necesita increíble rudeza y dureza para conquistar el desierto, y aún más para conquistar la competencia.\n Las carreras en el desierto hacen que los conductores de docenas de clases de carreras se enfrenten a un calor agotador y a un terreno variado. Desde aventuras de un punto a otro en grandes extensiones del norte de México hasta carreras en bucle centradas en los ejes del deporte, cada evento presenta un desafío diferente a algunas de las máquinas más avanzadas del mundo y a los corredores más talentosos."
+      },
+      {
+        "id": 2,
+        "tipo_seccion": "twinImages",
+        "contenido_seccion": [
+          {
+            "id": 0,
+            "imagen": "/images/backgrounds/pages/centroamerica.png"
+          },
+          {
+            "id": 1,
+            "imagen_dos": "/images/backgrounds/pages/somos-mas-que-llantas.jpg"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "tipo_seccion": "twinImages",
+        "contenido_seccion": [
+          {
+            "id": 0,
+            "imagen": "/images/backgrounds/pages/centroamerica.png"
+          },
+          {
+            "id": 1,
+            "imagen_dos": "/images/backgrounds/pages/somos-mas-que-llantas.jpg"
+          }
+        ]
+      }
+    ],
+    "ruta_noticia": "/baja-500/"
   },
   {
     "id": 7,
     "categoria": "motorsports",
     "ruta_imagen_noticia": "asdads",
-    "titulo_noticia": "GT3 CUP 2019",
+    "titulo_noticia": "PIKES PEAK 2019",
     "fecha_noticia": "2021-08-06 00:00:00",
-    "descripcion_noticia": "Competencia intensa y emocionante para semiprofesionales y aspirantes a conductores profesionales en los famosos autos Porsche 991.1 y 991.2 GT3 Cup, así como en el 718 Cayman Clubsport GT4.",
-    "ruta_noticia": "/gt3-cup-2019/"
+    "descripcion_noticia": "Una carrera de 156 vueltas y 12,42 millas hasta la cima de uno de los circuitos de competición más desafiantes jamás conocidos. Un evento anual como ningún otro, el Pikes Peak International Hill Climb pone a prueba a los conductores a través de 156 de los giros más desafiantes y peligrosos del mundo.",
+    "contenido_noticia": [
+      {
+        "id": 1,
+        "tipo_seccion": "paragraph",
+        "contenido_seccion": "Una carrera de 156 vueltas y 12,42 millas hasta la cima de uno de los circuitos de competición más desafiantes jamás conocidos.\n Un evento anual como ningún otro, el Pikes Peak International Hill Climb pone a prueba a los conductores a través de 156 de los giros más desafiantes y peligrosos del mundo."
+      },
+      {
+        "id": 2,
+        "tipo_seccion": "twinImages",
+        "contenido_seccion": [
+          {
+            "id": 0,
+            "imagen": "/images/backgrounds/pages/centroamerica.png"
+          },
+          {
+            "id": 1,
+            "imagen_dos": "/images/backgrounds/pages/somos-mas-que-llantas.jpg"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "tipo_seccion": "twinImages",
+        "contenido_seccion": [
+          {
+            "id": 0,
+            "imagen": "/images/backgrounds/pages/centroamerica.png"
+          },
+          {
+            "id": 1,
+            "imagen_dos": "/images/backgrounds/pages/somos-mas-que-llantas.jpg"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "tipo_seccion": "twinImages",
+        "contenido_seccion": [
+          {
+            "id": 0,
+            "imagen": "/images/backgrounds/pages/centroamerica.png"
+          },
+          {
+            "id": 1,
+            "imagen_dos": "/images/backgrounds/pages/somos-mas-que-llantas.jpg"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "tipo_seccion": "twinImages",
+        "contenido_seccion": [
+          {
+            "id": 0,
+            "imagen": "/images/backgrounds/pages/centroamerica.png"
+          },
+          {
+            "id": 1,
+            "imagen_dos": "/images/backgrounds/pages/somos-mas-que-llantas.jpg"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "tipo_seccion": "twinImages",
+        "contenido_seccion": [
+          {
+            "id": 0,
+            "imagen": "/images/backgrounds/pages/centroamerica.png"
+          },
+          {
+            "id": 1,
+            "imagen_dos": "/images/backgrounds/pages/somos-mas-que-llantas.jpg"
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "tipo_seccion": "twinImages",
+        "contenido_seccion": [
+          {
+            "id": 0,
+            "imagen": "/images/backgrounds/pages/centroamerica.png"
+          },
+          {
+            "id": 1,
+            "imagen_dos": "/images/backgrounds/pages/somos-mas-que-llantas.jpg"
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "tipo_seccion": "twinImages",
+        "contenido_seccion": [
+          {
+            "id": 0,
+            "imagen": "/images/backgrounds/pages/centroamerica.png"
+          },
+          {
+            "id": 1,
+            "imagen_dos": "/images/backgrounds/pages/somos-mas-que-llantas.jpg"
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "tipo_seccion": "twinImages",
+        "contenido_seccion": [
+          {
+            "id": 0,
+            "imagen": "/images/backgrounds/pages/centroamerica.png"
+          },
+          {
+            "id": 1,
+            "imagen_dos": "/images/backgrounds/pages/somos-mas-que-llantas.jpg"
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "tipo_seccion": "twinImages",
+        "contenido_seccion": [
+          {
+            "id": 0,
+            "imagen": "/images/backgrounds/pages/centroamerica.png"
+          },
+          {
+            "id": 1,
+            "imagen_dos": "/images/backgrounds/pages/somos-mas-que-llantas.jpg"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "tipo_seccion": "twinImages",
+        "contenido_seccion": [
+          {
+            "id": 0,
+            "imagen": "/images/backgrounds/pages/centroamerica.png"
+          },
+          {
+            "id": 1,
+            "imagen_dos": "/images/backgrounds/pages/somos-mas-que-llantas.jpg"
+          }
+        ]
+      }
+    ],
+    "ruta_noticia": "/pikes-peak-2019/"
   },
   {
     "id": 8,
     "categoria": "motorsports",
     "ruta_imagen_noticia": "asdads",
+    "titulo_noticia": "GT3 CUP 2019",
+    "fecha_noticia": "2021-08-06 00:00:00",
+    "descripcion_noticia": "Competencia intensa y emocionante para semiprofesionales y aspirantes a conductores profesionales en los famosos autos Porsche 991.1 y 991.2 GT3 Cup, así como en el 718 Cayman Clubsport GT4.",
+    "contenido_noticia": [
+      {
+        "id": 1,
+        "tipo_seccion": "paragraph",
+        "contenido_seccion": "Competencia intensa y emocionante para semiprofesionales y aspirantes a conductores profesionales en los famosos autos Porsche 991.1 y 991.2 GT3 Cup, así como en el 718 Cayman Clubsport GT4."
+      },
+      {
+        "id": 2,
+        "tipo_seccion": "twinImages",
+        "contenido_seccion": [
+          {
+            "id": 0,
+            "imagen": "/images/backgrounds/pages/centroamerica.png"
+          },
+          {
+            "id": 1,
+            "imagen_dos": "/images/backgrounds/pages/somos-mas-que-llantas.jpg"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "tipo_seccion": "twinImages",
+        "contenido_seccion": [
+          {
+            "id": 0,
+            "imagen": "/images/backgrounds/pages/centroamerica.png"
+          },
+          {
+            "id": 1,
+            "imagen_dos": "/images/backgrounds/pages/somos-mas-que-llantas.jpg"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "tipo_seccion": "twinImages",
+        "contenido_seccion": [
+          {
+            "id": 0,
+            "imagen": "/images/backgrounds/pages/centroamerica.png"
+          },
+          {
+            "id": 1,
+            "imagen_dos": "/images/backgrounds/pages/somos-mas-que-llantas.jpg"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "tipo_seccion": "twinImages",
+        "contenido_seccion": [
+          {
+            "id": 0,
+            "imagen": "/images/backgrounds/pages/centroamerica.png"
+          },
+          {
+            "id": 1,
+            "imagen_dos": "/images/backgrounds/pages/somos-mas-que-llantas.jpg"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "tipo_seccion": "twinImages",
+        "contenido_seccion": [
+          {
+            "id": 0,
+            "imagen": "/images/backgrounds/pages/centroamerica.png"
+          },
+          {
+            "id": 1,
+            "imagen_dos": "/images/backgrounds/pages/somos-mas-que-llantas.jpg"
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "tipo_seccion": "twinImages",
+        "contenido_seccion": [
+          {
+            "id": 0,
+            "imagen": "/images/backgrounds/pages/centroamerica.png"
+          },
+          {
+            "id": 1,
+            "imagen_dos": "/images/backgrounds/pages/somos-mas-que-llantas.jpg"
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "tipo_seccion": "twinImages",
+        "contenido_seccion": [
+          {
+            "id": 0,
+            "imagen": "/images/backgrounds/pages/centroamerica.png"
+          },
+          {
+            "id": 1,
+            "imagen_dos": "/images/backgrounds/pages/somos-mas-que-llantas.jpg"
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "tipo_seccion": "twinImages",
+        "contenido_seccion": [
+          {
+            "id": 0,
+            "imagen": "/images/backgrounds/pages/centroamerica.png"
+          },
+          {
+            "id": 1,
+            "imagen_dos": "/images/backgrounds/pages/somos-mas-que-llantas.jpg"
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "tipo_seccion": "twinImages",
+        "contenido_seccion": [
+          {
+            "id": 0,
+            "imagen": "/images/backgrounds/pages/centroamerica.png"
+          },
+          {
+            "id": 1,
+            "imagen_dos": "/images/backgrounds/pages/somos-mas-que-llantas.jpg"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "tipo_seccion": "twinImages",
+        "contenido_seccion": [
+          {
+            "id": 0,
+            "imagen": "/images/backgrounds/pages/centroamerica.png"
+          },
+          {
+            "id": 1,
+            "imagen_dos": "/images/backgrounds/pages/somos-mas-que-llantas.jpg"
+          }
+        ]
+      }
+    ],
+    "ruta_noticia": "/gt3-cup-2019/"
+  },
+  {
+    "id": 9,
+    "categoria": "motorsports",
+    "ruta_imagen_noticia": "asdads",
     "titulo_noticia": "KOH 2019",
     "fecha_noticia": "2021-08-06 00:00:00",
     "descripcion_noticia": "Una competencia que abarca desde carreras de resistencia por el desierto hasta recorridos por rocas al estilo de competencia y carreras de recorridos cortos. Los vehículos Ultra4 están diseñados para enfrentar los desafíos más duros en las carreras todoterreno, mezclando todo tipo de terreno y probando la confiabilidad y resistencia de los competidores en eventos de un día. Después de agregar numerosos eventos en todo Estados Unidos a lo largo de los años, la temporada Ultra4 continúa comenzando con KOH.",
+    "contenido_noticia": [
+      {
+        "id": 1,
+        "tipo_seccion": "paragraph",
+        "contenido_seccion": "Una competencia que abarca desde carreras de resistencia por el desierto hasta recorridos por rocas al estilo de competencia y carreras de recorridos cortos.\n Los vehículos Ultra4 están diseñados para enfrentar los desafíos más duros en las carreras todoterreno, mezclando todo tipo de terreno y probando la confiabilidad y resistencia de los competidores en eventos de un día. Después de agregar numerosos eventos en todo Estados Unidos a lo largo de los años, la temporada Ultra4 continúa comenzando con KOH."
+      },
+      {
+        "id": 2,
+        "tipo_seccion": "twinImages",
+        "contenido_seccion": [
+          {
+            "id": 0,
+            "imagen": "/images/backgrounds/pages/centroamerica.png"
+          },
+          {
+            "id": 1,
+            "imagen_dos": "/images/backgrounds/pages/somos-mas-que-llantas.jpg"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "tipo_seccion": "twinImages",
+        "contenido_seccion": [
+          {
+            "id": 0,
+            "imagen": "/images/backgrounds/pages/centroamerica.png"
+          },
+          {
+            "id": 1,
+            "imagen_dos": "/images/backgrounds/pages/somos-mas-que-llantas.jpg"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "tipo_seccion": "twinImages",
+        "contenido_seccion": [
+          {
+            "id": 0,
+            "imagen": "/images/backgrounds/pages/centroamerica.png"
+          },
+          {
+            "id": 1,
+            "imagen_dos": "/images/backgrounds/pages/somos-mas-que-llantas.jpg"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "tipo_seccion": "twinImages",
+        "contenido_seccion": [
+          {
+            "id": 0,
+            "imagen": "/images/backgrounds/pages/centroamerica.png"
+          },
+          {
+            "id": 1,
+            "imagen_dos": "/images/backgrounds/pages/somos-mas-que-llantas.jpg"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "tipo_seccion": "twinImages",
+        "contenido_seccion": [
+          {
+            "id": 0,
+            "imagen": "/images/backgrounds/pages/centroamerica.png"
+          },
+          {
+            "id": 1,
+            "imagen_dos": "/images/backgrounds/pages/somos-mas-que-llantas.jpg"
+          }
+        ]
+      }
+    ],
     "ruta_noticia": "/koh-2019/"
   }
 ]

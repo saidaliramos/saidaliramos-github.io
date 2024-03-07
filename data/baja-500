@@ -1,9 +1,44 @@
 {
-  "id": 5,
+  "id": 6,
   "categoria": "motorsports",
   "ruta_imagen_noticia": "asdads",
   "titulo_noticia": "BAJA 500",
   "fecha_noticia": "2021-08-06 00:00:00",
   "descripcion_noticia": "Se necesita increíble rudeza y dureza para conquistar el desierto, y aún más para conquistar la competencia. Las carreras en el desierto hacen que los conductores de docenas de clases de carreras se enfrenten a un calor agotador y a un terreno variado. Desde aventuras de un punto a otro en grandes extensiones del norte de México hasta carreras en bucle centradas en los ejes del deporte, cada evento presenta un desafío diferente a algunas de las máquinas más avanzadas del mundo y a los corredores más talentosos.",
+  "contenido_noticia": [
+    {
+      "id": 1,
+      "tipo_seccion": "paragraph",
+      "contenido_seccion": "Se necesita increíble rudeza y dureza para conquistar el desierto, y aún más para conquistar la competencia.\n Las carreras en el desierto hacen que los conductores de docenas de clases de carreras se enfrenten a un calor agotador y a un terreno variado. Desde aventuras de un punto a otro en grandes extensiones del norte de México hasta carreras en bucle centradas en los ejes del deporte, cada evento presenta un desafío diferente a algunas de las máquinas más avanzadas del mundo y a los corredores más talentosos."
+    },
+    {
+      "id": 2,
+      "tipo_seccion": "twinImages",
+      "contenido_seccion": [
+        {
+          "id": 0,
+          "imagen": "/images/backgrounds/pages/centroamerica.png"
+        },
+        {
+          "id": 1,
+          "imagen_dos": "/images/backgrounds/pages/somos-mas-que-llantas.jpg"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "tipo_seccion": "twinImages",
+      "contenido_seccion": [
+        {
+          "id": 0,
+          "imagen": "/images/backgrounds/pages/centroamerica.png"
+        },
+        {
+          "id": 1,
+          "imagen_dos": "/images/backgrounds/pages/somos-mas-que-llantas.jpg"
+        }
+      ]
+    }
+  ],
   "ruta_noticia": "/baja-500/"
 }
