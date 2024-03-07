@@ -1,0 +1,16 @@
+{
+  "id": 22,
+  "ruta_imagen_noticia": "/images/backgrounds/pages/centroamerica.png",
+  "titulo_noticia": "Yokohama es 5 Estrellas.",
+  "categoria": "noticia",
+  "fecha_creacion_noticia": "2023-02-23 00:00:00",
+  "descripcion_noticia": "YOKOHAMA ha sido distinguida con el premio portugués “CINCO ESTRELLAS 2023” (Five Stars 2023) dentro de la categoría de neumáticos, por segundo año consecutivo.",
+  "contenido_noticia": [
+    {
+      "id": 1,
+      "tipo_seccion": "image",
+      "contenido_seccion": "/images/backgrounds/pages/somos-mas-que-llantas.jpg"
+    }
+  ],
+  "ruta_noticia": "/elementor-420029/"
+}

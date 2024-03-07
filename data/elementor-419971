@@ -1,0 +1,16 @@
+{
+  "id": 26,
+  "ruta_imagen_noticia": "/images/backgrounds/pages/centroamerica.png",
+  "titulo_noticia": "Geolandar campeón en el Asia Cross Coutry Rally 2022.",
+  "categoria": "noticia",
+  "fecha_creacion_noticia": "2023-01-20 00:00:00",
+  "descripcion_noticia": "Nuestras Geolandar MT G003 ocuparon 4 de las primeras 5 posiciones en el AXCR 2022 que se llevó a cabo del 21 al 26 de Noviembre del 2022 iniciando en Tailandia y terminando en Camboya. Ésta competencia es el rally a campo traviesa más importante de Asia.",
+  "contenido_noticia": [
+    {
+      "id": 1,
+      "tipo_seccion": "image",
+      "contenido_seccion": "/images/backgrounds/pages/somos-mas-que-llantas.jpg"
+    }
+  ],
+  "ruta_noticia": "/elementor-419971/"
+}

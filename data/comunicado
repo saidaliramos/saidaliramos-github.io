@@ -1,0 +1,16 @@
+{
+  "id": 12,
+  "ruta_imagen_noticia": "/images/backgrounds/pages/centroamerica.png",
+  "titulo_noticia": "Retiro Voluntario de Productos Yokohama",
+  "categoria": "noticia",
+  "fecha_creacion_noticia": "2023-09-19 00:00:00",
+  "descripcion_noticia": "Yokohama Tire México ha determinado que una condición de manufactura podría existir en algunas llantas de camión radial afectando su correcta funcionalidad. El modelo afectado por esta anomalía es el 504C únicamente en la medida 11R22.5 con fechas de producción de acuerdo con la siguiente tabla:",
+  "contenido_noticia": [
+    {
+      "id": 1,
+      "tipo_seccion": "image",
+      "contenido_seccion": "/images/backgrounds/pages/somos-mas-que-llantas.jpg"
+    }
+  ],
+  "ruta_noticia": "/comunicado/"
+}

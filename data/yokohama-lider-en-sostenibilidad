@@ -1,0 +1,16 @@
+{
+  "id": 23,
+  "ruta_imagen_noticia": "/images/backgrounds/pages/centroamerica.png",
+  "titulo_noticia": "Yokohama líder en sostenibilidad.",
+  "categoria": "noticia",
+  "fecha_creacion_noticia": "2023-01-27 00:00:00",
+  "descripcion_noticia": "En Yokohama nos enorgullece anunciar que una vez más hemos sido reconocidos por nuestro liderazgo en sostenibilidad corporativa por parte de la organización ambiental mundial sin fines de lucro CDP. La misma nombró, el 13 de diciembre, a Yokohama Rubber en su prestigiosa Lista A por abordar el cambio climático.",
+  "contenido_noticia": [
+    {
+      "id": 1,
+      "tipo_seccion": "image",
+      "contenido_seccion": "/images/backgrounds/pages/somos-mas-que-llantas.jpg"
+    }
+  ],
+  "ruta_noticia": "/yokohama-lider-en-sostenibilidad/"
+}

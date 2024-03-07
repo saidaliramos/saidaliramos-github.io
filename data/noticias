@@ -2,7 +2,7 @@
   {
     "id": 1,
     "categoria": "motorsports",
-    "ruta_imagen_noticia": "asdads",
+    "ruta_imagen_noticia": "/images/backgrounds/pages/centroamerica.png",
     "titulo_noticia": "SEMA 19",
     "fecha_noticia": "2021-08-13 00:00:00",
     "descripcion_noticia": "El evento dedicado a la transformación de automóviles más famoso del mundo, el Sema Show, celebró su edición 2019. Como es habitual tiene lugar en Las Vegas, Estados Unidos, y nos dejó varias sorpresas para nuestras llantas Yokohama. ¡Felicidades ADVAN Apex V601 y Geolandar X-AT!",
@@ -88,7 +88,7 @@
   {
     "id": 2,
     "categoria": "motorsports",
-    "ruta_imagen_noticia": "asdads",
+    "ruta_imagen_noticia": "/images/backgrounds/pages/centroamerica.png",
     "titulo_noticia": "ADVAN Heritage",
     "fecha_noticia": "2021-08-13 00:00:00",
     "descripcion_noticia": "En Yokohama creamos nuestros propios equipos de carreras. Los directores, mecánicos y conductores se reunieron para crear nuestros propios equipos de carreras independientes en 1979. La llanta ideal elegida fue la familia ADVAN, el primer neumático radial deportivo de Japón. Los equipos de Yokohama empezaron a ganar, por todo el mundo. Cualquier automóvil vestido de rojo con negro, donde la pasión se encuentra con el asfalto, se convirtió en un gran e imponente contendiente en el mundo automovilístico. Y así comenzó el legado que se convertiría en Yokohama ADVAN. Presentamos la edición 2019.",
@@ -146,7 +146,7 @@
   {
     "id": 3,
     "categoria": "motorsports",
-    "ruta_imagen_noticia": "asdads",
+    "ruta_imagen_noticia": "/images/backgrounds/pages/centroamerica.png",
     "titulo_noticia": "Baja 1000",
     "fecha_noticia": "2021-08-13 00:00:00",
     "descripcion_noticia": "Carrera mexicana de deportes de motor todo terreno que se celebra cada año en la península de Baja California. Es una de las carreras todo terreno más prestigiosas del mundo, que atrae a competidores de categoría internacional. La carrera es la ronda final de una serie anual de cuatro carreras, que incluye el SCORE Desert Challenge, el SCORE San Felipe 250 y el SCORE Baja 500.",
@@ -172,7 +172,7 @@
   {
     "id": 4,
     "categoria": "motorsports",
-    "ruta_imagen_noticia": "asdads",
+    "ruta_imagen_noticia": "/images/backgrounds/pages/centroamerica.png",
     "titulo_noticia": "Sonora Rally",
     "fecha_noticia": "2021-08-13 00:00:00",
     "descripcion_noticia": "El Sonora Rally, se lleva a cabo en el increíble desierto de Sonora, es un rally de navegación al estilo “Dakar” de cinco días y se ha convertido en el principal evento de rally a campo traviesa en América del Norte. Los corredores son desafiados a una intensa prueba de navegación y habilidades de carreras todoterreno mientras están rodeados por el hermoso y único paisaje y la cultura de Sonora. El logo del Sonora Rally rinde homenaje a la Danza del Venado Yaqui y Mayo (Yoreme), o La Danza del Venado y es un poderoso símbolo del orgullo sonorense.",
@@ -198,7 +198,7 @@
   {
     "id": 5,
     "categoria": "motorsports",
-    "ruta_imagen_noticia": "asdads",
+    "ruta_imagen_noticia": "/images/backgrounds/pages/centroamerica.png",
     "titulo_noticia": "NORRA MEXICAN 1000",
     "fecha_noticia": "2021-08-06 00:00:00",
     "descripcion_noticia": "Ningún otro evento de carreras sumerge a los competidores en la comida, bebida, cultura y belleza de Baja, como el Yokohama NORRA Mexican 1000 - “¡La carrera más feliz de la tierra!”, Y los competidores abarcan desde íconos de carreras todo terreno. NORRA tiene clases para bicicletas, quads, UTV y clases de 4 ruedas para todo terreno, desde vehículos antiguos hasta autos de carrera de última generación. Incluso existe la clase Savvy Safari para vehículos originales y vehículos OEM ligeramente modificados (vehículos que no son de carrera). NORRA rinde homenaje al pasado y celebra el futuro.",
@@ -228,7 +228,7 @@
   {
     "id": 6,
     "categoria": "motorsports",
-    "ruta_imagen_noticia": "asdads",
+    "ruta_imagen_noticia": "/images/backgrounds/pages/centroamerica.png",
     "titulo_noticia": "BAJA 500",
     "fecha_noticia": "2021-08-06 00:00:00",
     "descripcion_noticia": "Se necesita increíble rudeza y dureza para conquistar el desierto, y aún más para conquistar la competencia. Las carreras en el desierto hacen que los conductores de docenas de clases de carreras se enfrenten a un calor agotador y a un terreno variado. Desde aventuras de un punto a otro en grandes extensiones del norte de México hasta carreras en bucle centradas en los ejes del deporte, cada evento presenta un desafío diferente a algunas de las máquinas más avanzadas del mundo y a los corredores más talentosos.",
@@ -272,7 +272,7 @@
   {
     "id": 7,
     "categoria": "motorsports",
-    "ruta_imagen_noticia": "asdads",
+    "ruta_imagen_noticia": "/images/backgrounds/pages/centroamerica.png",
     "titulo_noticia": "PIKES PEAK 2019",
     "fecha_noticia": "2021-08-06 00:00:00",
     "descripcion_noticia": "Una carrera de 156 vueltas y 12,42 millas hasta la cima de uno de los circuitos de competición más desafiantes jamás conocidos. Un evento anual como ningún otro, el Pikes Peak International Hill Climb pone a prueba a los conductores a través de 156 de los giros más desafiantes y peligrosos del mundo.",
@@ -428,7 +428,7 @@
   {
     "id": 8,
     "categoria": "motorsports",
-    "ruta_imagen_noticia": "asdads",
+    "ruta_imagen_noticia": "/images/backgrounds/pages/centroamerica.png",
     "titulo_noticia": "GT3 CUP 2019",
     "fecha_noticia": "2021-08-06 00:00:00",
     "descripcion_noticia": "Competencia intensa y emocionante para semiprofesionales y aspirantes a conductores profesionales en los famosos autos Porsche 991.1 y 991.2 GT3 Cup, así como en el 718 Cayman Clubsport GT4.",
@@ -584,7 +584,7 @@
   {
     "id": 9,
     "categoria": "motorsports",
-    "ruta_imagen_noticia": "asdads",
+    "ruta_imagen_noticia": "/images/backgrounds/pages/centroamerica.png",
     "titulo_noticia": "KOH 2019",
     "fecha_noticia": "2021-08-06 00:00:00",
     "descripcion_noticia": "Una competencia que abarca desde carreras de resistencia por el desierto hasta recorridos por rocas al estilo de competencia y carreras de recorridos cortos. Los vehículos Ultra4 están diseñados para enfrentar los desafíos más duros en las carreras todoterreno, mezclando todo tipo de terreno y probando la confiabilidad y resistencia de los competidores en eventos de un día. Después de agregar numerosos eventos en todo Estados Unidos a lo largo de los años, la temporada Ultra4 continúa comenzando con KOH.",
@@ -666,5 +666,293 @@
       }
     ],
     "ruta_noticia": "/koh-2019/"
+  },
+  {
+    "id": 10,
+    "ruta_imagen_noticia": "/images/backgrounds/pages/centroamerica.png",
+    "titulo_noticia": "Nuevas ADVAN Sport EV",
+    "categoria": "noticia",
+    "fecha_creacion_noticia": "2023-11-27 00:00:00",
+    "descripcion_noticia": "YOKOHAMA presenta la gama de llantas “E+”: una marca patentada para vehículos eléctricos Premium. YOKOHAMA aplicará una nuevo estampado en el costado denominado “E+” a sus llantas diseñadas específicamente para autos, camiones y autobuses eléctricos.",
+    "contenido_noticia": [
+      {
+        "id": 1,
+        "tipo_seccion": "image",
+        "contenido_seccion": "/images/backgrounds/pages/somos-mas-que-llantas.jpg"
+      }
+    ],
+    "ruta_noticia": "/elementor-422074/"
+  },
+  {
+    "id": 11,
+    "ruta_imagen_noticia": "/images/backgrounds/pages/centroamerica.png",
+    "titulo_noticia": "Yokohama la llanta oficial de la la Porsche Cup North América",
+    "categoria": "noticia",
+    "fecha_creacion_noticia": "2023-11-01 00:00:00",
+    "descripcion_noticia": "Hiratsuka, Japón—Yokohama Rubber Co., Ltd., anunció hoy que su subsidiaria estadounidense Yokohama Tire Corporation (YTC) ha sido nombrada el nuevo Socio Premier de la Porsche Carrera Cup North América en 2024 y suministrará neumáticos de carreras ADVAN para todas las carreras de la serie que se celebrarán en los Estados Unidos y Canadá. Yokohama suministrará neumáticos ADVAN A005 para condiciones secas y ADVAN A006 para condiciones húmedas.",
+    "contenido_noticia": [
+      {
+        "id": 1,
+        "tipo_seccion": "image",
+        "contenido_seccion": "/images/backgrounds/pages/somos-mas-que-llantas.jpg"
+      }
+    ],
+    "ruta_noticia": "/elementor-422020/"
+  },
+  {
+    "id": 12,
+    "ruta_imagen_noticia": "/images/backgrounds/pages/centroamerica.png",
+    "titulo_noticia": "Retiro Voluntario de Productos Yokohama",
+    "categoria": "noticia",
+    "fecha_creacion_noticia": "2023-09-19 00:00:00",
+    "descripcion_noticia": "Yokohama Tire México ha determinado que una condición de manufactura podría existir en algunas llantas de camión radial afectando su correcta funcionalidad. El modelo afectado por esta anomalía es el 504C únicamente en la medida 11R22.5 con fechas de producción de acuerdo con la siguiente tabla:",
+    "contenido_noticia": [
+      {
+        "id": 1,
+        "tipo_seccion": "image",
+        "contenido_seccion": "/images/backgrounds/pages/somos-mas-que-llantas.jpg"
+      }
+    ],
+    "ruta_noticia": "/comunicado/"
+  },
+  {
+    "id": 13,
+    "ruta_imagen_noticia": "/images/backgrounds/pages/centroamerica.png",
+    "titulo_noticia": "Se asocia Yokohama y Electrify Expo.",
+    "categoria": "noticia",
+    "fecha_creacion_noticia": "2023-06-16 00:00:00",
+    "descripcion_noticia": "Yokohama se une a la última tendencia en personalización de automóviles: vehículos eléctricos (EV). Yokohama ha sido nombrado patrocinador presentador de Electrify Showoff Driven by Yokohama.",
+    "contenido_noticia": [
+      {
+        "id": 1,
+        "tipo_seccion": "image",
+        "contenido_seccion": "/images/backgrounds/pages/somos-mas-que-llantas.jpg"
+      }
+    ],
+    "ruta_noticia": "/elementor-420399/"
+  },
+  {
+    "id": 14,
+    "ruta_imagen_noticia": "/images/backgrounds/pages/centroamerica.png",
+    "titulo_noticia": "Yokohama en el Concurso Internacional de Elegancia",
+    "categoria": "2023-05-26 00:00:00",
+    "fecha_creacion_noticia": "05/26/2023",
+    "descripcion_noticia": "Nos es grato compartir que el 22 y 23 de abril del presente año, tuvimos el honor de participar en “Gran concurso Internacional de la elegancia”, en este fin de semana los visitantes pudieron admirar más de 450 vehículos de colección con una antigüedad mínima de 40 años.",
+    "contenido_noticia": [
+      {
+        "id": 1,
+        "tipo_seccion": "image",
+        "contenido_seccion": "/images/backgrounds/pages/somos-mas-que-llantas.jpg"
+      }
+    ],
+    "ruta_noticia": "/yokohama-en-el-concurso-internacional-de-elegancia-2023/"
+  },
+  {
+    "id": 15,
+    "ruta_imagen_noticia": "/images/backgrounds/pages/centroamerica.png",
+    "titulo_noticia": "Victoria en Nürburgring Endurance Series 2023",
+    "categoria": "noticia",
+    "fecha_creacion_noticia": "2023-05-25 00:00:00",
+    "descripcion_noticia": "Un automóvil que funciona con llantas ADVAN de Yokohama fue el ganador general de la segunda ronda de la Nürburgring Endurance Series (NLS) 2023. El auto ganador fue equipado con llantas ADVAN A005 para condiciones secas y llantas ADVAN A006 para condiciones húmedas.",
+    "contenido_noticia": [
+      {
+        "id": 1,
+        "tipo_seccion": "image",
+        "contenido_seccion": "/images/backgrounds/pages/somos-mas-que-llantas.jpg"
+      }
+    ],
+    "ruta_noticia": "/elementor-420306/"
+  },
+  {
+    "id": 16,
+    "ruta_imagen_noticia": "/images/backgrounds/pages/centroamerica.png",
+    "titulo_noticia": "Nuevo programa de carreras de diversidad",
+    "categoria": "noticia",
+    "fecha_creacion_noticia": "2023-05-24 00:00:00",
+    "descripcion_noticia": "Cuando se trata de ayudar a diversos conductores a progresar en sus carreras, Yokohama Tire es “¡All-In!”",
+    "contenido_noticia": [
+      {
+        "id": 1,
+        "tipo_seccion": "image",
+        "contenido_seccion": "/images/backgrounds/pages/somos-mas-que-llantas.jpg"
+      }
+    ],
+    "ruta_noticia": "/nuevo-programa-de-carreras-all-in/"
+  },
+  {
+    "id": 17,
+    "ruta_imagen_noticia": "/images/backgrounds/pages/centroamerica.png",
+    "titulo_noticia": "Porsche Sprint Challenge North America",
+    "categoria": "noticia",
+    "fecha_creacion_noticia": "2023-05-23 00:00:00",
+    "descripcion_noticia": "En Yokohama nos entusiasma compartir con ustedes que por tercera temporada consecutiva, Yokohama se une a este gran evento como socio oficial de neumáticos y patrocinador de la serie de carreras de autos deportivos organizada por el fabricante de autos alemán Porsche y sancionada por la USAC, con carreras en Estados Unidos y Canadá.",
+    "contenido_noticia": [
+      {
+        "id": 1,
+        "tipo_seccion": "image",
+        "contenido_seccion": "/images/backgrounds/pages/somos-mas-que-llantas.jpg"
+      }
+    ],
+    "ruta_noticia": "/elementor-420285/"
+  },
+  {
+    "id": 18,
+    "ruta_imagen_noticia": "/images/backgrounds/pages/centroamerica.png",
+    "titulo_noticia": "Yokohama adquiere Trelleborg Wheel Systems",
+    "categoria": "noticia",
+    "fecha_creacion_noticia": "2023-05-05 00:00:00",
+    "descripcion_noticia": "Nos es grato compartir que hemos finalizado exitosamente la adquisición de Trelleborg Wheel Systems (TWS) por parte de Yokohama Rubber Co. Ltd. (YRC).",
+    "contenido_noticia": [
+      {
+        "id": 1,
+        "tipo_seccion": "image",
+        "contenido_seccion": "/images/backgrounds/pages/somos-mas-que-llantas.jpg"
+      }
+    ],
+    "ruta_noticia": "/yokohama-adquiere-trelleborg-wheel-systems/"
+  },
+  {
+    "id": 19,
+    "ruta_imagen_noticia": "/images/backgrounds/pages/centroamerica.png",
+    "titulo_noticia": "Plan Yokohama Motorsports 2023",
+    "categoria": "noticia",
+    "fecha_creacion_noticia": "2023-05-04 00:00:00",
+    "descripcion_noticia": "Lanzamos nuestro plan de actividades Motorsports 2023, en nuestro actual plan de gestión a mediano plazo el “Yokohama Transformación 2023 (YX2023)”, nos planteamos como objetivo maximizar los índices de ventas de nuestras marcas de alto valor agregado, ADVAN, y GEOLANDAR; en este plan YX2023 también se pretende posicionar nuestras marcas en actividades de deportes de motor como crucial para el esfuerzo de la compañía por desarrollar nuevas tecnologías de llantas que fortalecerán aún más las marcas ADVAN y GEOLANDAR.",
+    "contenido_noticia": [
+      {
+        "id": 1,
+        "tipo_seccion": "image",
+        "contenido_seccion": "/images/backgrounds/pages/somos-mas-que-llantas.jpg"
+      }
+    ],
+    "ruta_noticia": "/plan-yokohama-motor-sports-2023/"
+  },
+  {
+    "id": 20,
+    "ruta_imagen_noticia": "/images/backgrounds/pages/centroamerica.png",
+    "titulo_noticia": "GEOLANDAR 1er lugar en el KING ♕ of Hammers 2023.",
+    "categoria": "noticia",
+    "fecha_creacion_noticia": "2023-03-28 00:00:00",
+    "descripcion_noticia": "Nos entusiasma compartir que un vehículo equipado con nuestras Geolandar terminó en primer lugar en la carrera todoterreno King of the Hammers celebrada en California del 4 al 11 de febrero.",
+    "contenido_noticia": [
+      {
+        "id": 1,
+        "tipo_seccion": "image",
+        "contenido_seccion": "/images/backgrounds/pages/somos-mas-que-llantas.jpg"
+      }
+    ],
+    "ruta_noticia": "/elementor-420194/"
+  },
+  {
+    "id": 21,
+    "ruta_imagen_noticia": "/images/backgrounds/pages/centroamerica.png",
+    "titulo_noticia": "GEOLANDAR MT G003 en el KING ♕ of Hammers 2023.",
+    "categoria": "noticia",
+    "fecha_creacion_noticia": "2023-02-27 00:00:00",
+    "descripcion_noticia": "Nuestras llantas todo terreno GEOLANDAR MT G003 equiparán a los vehículos participantes en la carrera todo terreno “KING OF THE HAMMERS” en su temporada 2023.",
+    "contenido_noticia": [
+      {
+        "id": 1,
+        "tipo_seccion": "image",
+        "contenido_seccion": "/images/backgrounds/pages/somos-mas-que-llantas.jpg"
+      }
+    ],
+    "ruta_noticia": "/elementor-420043/"
+  },
+  {
+    "id": 22,
+    "ruta_imagen_noticia": "/images/backgrounds/pages/centroamerica.png",
+    "titulo_noticia": "Yokohama es 5 Estrellas.",
+    "categoria": "noticia",
+    "fecha_creacion_noticia": "2023-02-23 00:00:00",
+    "descripcion_noticia": "YOKOHAMA ha sido distinguida con el premio portugués “CINCO ESTRELLAS 2023” (Five Stars 2023) dentro de la categoría de neumáticos, por segundo año consecutivo.",
+    "contenido_noticia": [
+      {
+        "id": 1,
+        "tipo_seccion": "image",
+        "contenido_seccion": "/images/backgrounds/pages/somos-mas-que-llantas.jpg"
+      }
+    ],
+    "ruta_noticia": "/elementor-420029/"
+  },
+  {
+    "id": 23,
+    "ruta_imagen_noticia": "/images/backgrounds/pages/centroamerica.png",
+    "titulo_noticia": "Yokohama líder en sostenibilidad.",
+    "categoria": "noticia",
+    "fecha_creacion_noticia": "2023-01-27 00:00:00",
+    "descripcion_noticia": "En Yokohama nos enorgullece anunciar que una vez más hemos sido reconocidos por nuestro liderazgo en sostenibilidad corporativa por parte de la organización ambiental mundial sin fines de lucro CDP. La misma nombró, el 13 de diciembre, a Yokohama Rubber en su prestigiosa Lista A por abordar el cambio climático.",
+    "contenido_noticia": [
+      {
+        "id": 1,
+        "tipo_seccion": "image",
+        "contenido_seccion": "/images/backgrounds/pages/somos-mas-que-llantas.jpg"
+      }
+    ],
+    "ruta_noticia": "/yokohama-lider-en-sostenibilidad/"
+  },
+  {
+    "id": 24,
+    "ruta_imagen_noticia": "/images/backgrounds/pages/centroamerica.png",
+    "titulo_noticia": "Yokohama ADVAN® presente en la SUPER FÓRMULA 2023",
+    "categoria": "noticia",
+    "fecha_creacion_noticia": "2023-01-25 00:00:00",
+    "descripcion_noticia": "Yokohama será proveedor de llantas para SUPER FÓRMULA 2023, elaboradas con material sostenible del 33%.",
+    "contenido_noticia": [
+      {
+        "id": 1,
+        "tipo_seccion": "image",
+        "contenido_seccion": "/images/backgrounds/pages/somos-mas-que-llantas.jpg"
+      }
+    ],
+    "ruta_noticia": "/elementor-420006/"
+  },
+  {
+    "id": 25,
+    "ruta_imagen_noticia": "/images/backgrounds/pages/centroamerica.png",
+    "titulo_noticia": "Travis Pastrana vuela sobre llantas Yokohama ADVAN®",
+    "categoria": "noticia",
+    "fecha_creacion_noticia": "2023-01-23 00:00:00",
+    "descripcion_noticia": "Travis Pastrana, miembro del equipo de Yokohama y superestrella de los deportes de acción, regresa al pasado en el video recién lanzado y extravagante de Gymkhana 2022. Conduciendo/saltando/volando por Florida en un Subaru GL wagon de 1983 altamente modificado, de 860 caballos de fuerza, con tracción en las cuatro ruedas y turboalimentado, apodado el “Family Huckster” y equipado con los neumáticos ADVAN A052® de primer nivel de Yokohama.",
+    "contenido_noticia": [
+      {
+        "id": 1,
+        "tipo_seccion": "image",
+        "contenido_seccion": "/images/backgrounds/pages/somos-mas-que-llantas.jpg"
+      }
+    ],
+    "ruta_noticia": "/elementor-419986/"
+  },
+  {
+    "id": 26,
+    "ruta_imagen_noticia": "/images/backgrounds/pages/centroamerica.png",
+    "titulo_noticia": "Geolandar campeón en el Asia Cross Coutry Rally 2022.",
+    "categoria": "noticia",
+    "fecha_creacion_noticia": "2023-01-20 00:00:00",
+    "descripcion_noticia": "Nuestras Geolandar MT G003 ocuparon 4 de las primeras 5 posiciones en el AXCR 2022 que se llevó a cabo del 21 al 26 de Noviembre del 2022 iniciando en Tailandia y terminando en Camboya. Ésta competencia es el rally a campo traviesa más importante de Asia.",
+    "contenido_noticia": [
+      {
+        "id": 1,
+        "tipo_seccion": "image",
+        "contenido_seccion": "/images/backgrounds/pages/somos-mas-que-llantas.jpg"
+      }
+    ],
+    "ruta_noticia": "/elementor-419971/"
+  },
+  {
+    "id": 27,
+    "ruta_imagen_noticia": "/images/backgrounds/pages/centroamerica.png",
+    "titulo_noticia": "Yokohama ADVAN - Ganador en Japón",
+    "categoria": "noticia",
+    "fecha_creacion_noticia": "2023-01-19 00:00:00",
+    "descripcion_noticia": "Yokohama ADVAN - Ganador en Japón",
+    "contenido_noticia": [
+      {
+        "id": 1,
+        "tipo_seccion": "image",
+        "contenido_seccion": "/images/backgrounds/pages/somos-mas-que-llantas.jpg"
+      }
+    ],
+    "ruta_noticia": "/yokohama-advan-ganador-de-la-serie/"
   }
 ]

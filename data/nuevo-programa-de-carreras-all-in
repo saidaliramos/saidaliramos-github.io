@@ -1,0 +1,16 @@
+{
+  "id": 16,
+  "ruta_imagen_noticia": "/images/backgrounds/pages/centroamerica.png",
+  "titulo_noticia": "Nuevo programa de carreras de diversidad",
+  "categoria": "noticia",
+  "fecha_creacion_noticia": "2023-05-24 00:00:00",
+  "descripcion_noticia": "Cuando se trata de ayudar a diversos conductores a progresar en sus carreras, Yokohama Tire es “¡All-In!”",
+  "contenido_noticia": [
+    {
+      "id": 1,
+      "tipo_seccion": "image",
+      "contenido_seccion": "/images/backgrounds/pages/somos-mas-que-llantas.jpg"
+    }
+  ],
+  "ruta_noticia": "/nuevo-programa-de-carreras-all-in/"
+}

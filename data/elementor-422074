@@ -1,0 +1,16 @@
+{
+  "id": 10,
+  "ruta_imagen_noticia": "/images/backgrounds/pages/centroamerica.png",
+  "titulo_noticia": "Nuevas ADVAN Sport EV",
+  "categoria": "noticia",
+  "fecha_creacion_noticia": "2023-11-27 00:00:00",
+  "descripcion_noticia": "YOKOHAMA presenta la gama de llantas “E+”: una marca patentada para vehículos eléctricos Premium. YOKOHAMA aplicará una nuevo estampado en el costado denominado “E+” a sus llantas diseñadas específicamente para autos, camiones y autobuses eléctricos.",
+  "contenido_noticia": [
+    {
+      "id": 1,
+      "tipo_seccion": "image",
+      "contenido_seccion": "/images/backgrounds/pages/somos-mas-que-llantas.jpg"
+    }
+  ],
+  "ruta_noticia": "/elementor-422074/"
+}

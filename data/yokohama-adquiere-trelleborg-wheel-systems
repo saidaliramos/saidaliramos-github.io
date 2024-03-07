@@ -1,0 +1,16 @@
+{
+  "id": 18,
+  "ruta_imagen_noticia": "/images/backgrounds/pages/centroamerica.png",
+  "titulo_noticia": "Yokohama adquiere Trelleborg Wheel Systems",
+  "categoria": "noticia",
+  "fecha_creacion_noticia": "2023-05-05 00:00:00",
+  "descripcion_noticia": "Nos es grato compartir que hemos finalizado exitosamente la adquisición de Trelleborg Wheel Systems (TWS) por parte de Yokohama Rubber Co. Ltd. (YRC).",
+  "contenido_noticia": [
+    {
+      "id": 1,
+      "tipo_seccion": "image",
+      "contenido_seccion": "/images/backgrounds/pages/somos-mas-que-llantas.jpg"
+    }
+  ],
+  "ruta_noticia": "/yokohama-adquiere-trelleborg-wheel-systems/"
+}

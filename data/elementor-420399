@@ -1,0 +1,16 @@
+{
+  "id": 13,
+  "ruta_imagen_noticia": "/images/backgrounds/pages/centroamerica.png",
+  "titulo_noticia": "Se asocia Yokohama y Electrify Expo.",
+  "categoria": "noticia",
+  "fecha_creacion_noticia": "2023-06-16 00:00:00",
+  "descripcion_noticia": "Yokohama se une a la última tendencia en personalización de automóviles: vehículos eléctricos (EV). Yokohama ha sido nombrado patrocinador presentador de Electrify Showoff Driven by Yokohama.",
+  "contenido_noticia": [
+    {
+      "id": 1,
+      "tipo_seccion": "image",
+      "contenido_seccion": "/images/backgrounds/pages/somos-mas-que-llantas.jpg"
+    }
+  ],
+  "ruta_noticia": "/elementor-420399/"
+}

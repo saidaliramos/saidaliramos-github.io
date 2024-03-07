@@ -1,0 +1,16 @@
+{
+  "id": 21,
+  "ruta_imagen_noticia": "/images/backgrounds/pages/centroamerica.png",
+  "titulo_noticia": "GEOLANDAR MT G003 en el KING ♕ of Hammers 2023.",
+  "categoria": "noticia",
+  "fecha_creacion_noticia": "2023-02-27 00:00:00",
+  "descripcion_noticia": "Nuestras llantas todo terreno GEOLANDAR MT G003 equiparán a los vehículos participantes en la carrera todo terreno “KING OF THE HAMMERS” en su temporada 2023.",
+  "contenido_noticia": [
+    {
+      "id": 1,
+      "tipo_seccion": "image",
+      "contenido_seccion": "/images/backgrounds/pages/somos-mas-que-llantas.jpg"
+    }
+  ],
+  "ruta_noticia": "/elementor-420043/"
+}

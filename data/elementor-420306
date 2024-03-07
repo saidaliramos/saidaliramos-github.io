@@ -1,0 +1,16 @@
+{
+  "id": 15,
+  "ruta_imagen_noticia": "/images/backgrounds/pages/centroamerica.png",
+  "titulo_noticia": "Victoria en Nürburgring Endurance Series 2023",
+  "categoria": "noticia",
+  "fecha_creacion_noticia": "2023-05-25 00:00:00",
+  "descripcion_noticia": "Un automóvil que funciona con llantas ADVAN de Yokohama fue el ganador general de la segunda ronda de la Nürburgring Endurance Series (NLS) 2023. El auto ganador fue equipado con llantas ADVAN A005 para condiciones secas y llantas ADVAN A006 para condiciones húmedas.",
+  "contenido_noticia": [
+    {
+      "id": 1,
+      "tipo_seccion": "image",
+      "contenido_seccion": "/images/backgrounds/pages/somos-mas-que-llantas.jpg"
+    }
+  ],
+  "ruta_noticia": "/elementor-420306/"
+}

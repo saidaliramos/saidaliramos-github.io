@@ -1,0 +1,16 @@
+{
+  "id": 25,
+  "ruta_imagen_noticia": "/images/backgrounds/pages/centroamerica.png",
+  "titulo_noticia": "Travis Pastrana vuela sobre llantas Yokohama ADVAN®",
+  "categoria": "noticia",
+  "fecha_creacion_noticia": "2023-01-23 00:00:00",
+  "descripcion_noticia": "Travis Pastrana, miembro del equipo de Yokohama y superestrella de los deportes de acción, regresa al pasado en el video recién lanzado y extravagante de Gymkhana 2022. Conduciendo/saltando/volando por Florida en un Subaru GL wagon de 1983 altamente modificado, de 860 caballos de fuerza, con tracción en las cuatro ruedas y turboalimentado, apodado el “Family Huckster” y equipado con los neumáticos ADVAN A052® de primer nivel de Yokohama.",
+  "contenido_noticia": [
+    {
+      "id": 1,
+      "tipo_seccion": "image",
+      "contenido_seccion": "/images/backgrounds/pages/somos-mas-que-llantas.jpg"
+    }
+  ],
+  "ruta_noticia": "/elementor-419986/"
+}

@@ -1,0 +1,16 @@
+{
+    "id": 14,
+    "ruta_imagen_noticia": "/images/backgrounds/pages/centroamerica.png",
+    "titulo_noticia": "Yokohama en el Concurso Internacional de Elegancia",
+    "categoria": "2023-05-26 00:00:00",
+    "fecha_creacion_noticia": "05/26/2023",
+    "descripcion_noticia": "Nos es grato compartir que el 22 y 23 de abril del presente año, tuvimos el honor de participar en “Gran concurso Internacional de la elegancia”, en este fin de semana los visitantes pudieron admirar más de 450 vehículos de colección con una antigüedad mínima de 40 años.",
+    "contenido_noticia": [
+      {
+        "id": 1,
+        "tipo_seccion": "image",
+        "contenido_seccion": "/images/backgrounds/pages/somos-mas-que-llantas.jpg"
+      }
+    ],
+    "ruta_noticia": "/yokohama-en-el-concurso-internacional-de-elegancia-2023/"
+  }

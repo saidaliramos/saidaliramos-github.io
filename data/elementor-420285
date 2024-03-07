@@ -1,0 +1,16 @@
+{
+  "id": 17,
+  "ruta_imagen_noticia": "/images/backgrounds/pages/centroamerica.png",
+  "titulo_noticia": "Porsche Sprint Challenge North America",
+  "categoria": "noticia",
+  "fecha_creacion_noticia": "2023-05-23 00:00:00",
+  "descripcion_noticia": "En Yokohama nos entusiasma compartir con ustedes que por tercera temporada consecutiva, Yokohama se une a este gran evento como socio oficial de neumáticos y patrocinador de la serie de carreras de autos deportivos organizada por el fabricante de autos alemán Porsche y sancionada por la USAC, con carreras en Estados Unidos y Canadá.",
+  "contenido_noticia": [
+    {
+      "id": 1,
+      "tipo_seccion": "image",
+      "contenido_seccion": "/images/backgrounds/pages/somos-mas-que-llantas.jpg"
+    }
+  ],
+  "ruta_noticia": "/elementor-420285/"
+}

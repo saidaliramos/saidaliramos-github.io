@@ -1,0 +1,16 @@
+{
+  "id": 27,
+  "ruta_imagen_noticia": "/images/backgrounds/pages/centroamerica.png",
+  "titulo_noticia": "Yokohama ADVAN - Ganador en Japón",
+  "categoria": "noticia",
+  "fecha_creacion_noticia": "2023-01-19 00:00:00",
+  "descripcion_noticia": "Yokohama ADVAN - Ganador en Japón",
+  "contenido_noticia": [
+    {
+      "id": 1,
+      "tipo_seccion": "image",
+      "contenido_seccion": "/images/backgrounds/pages/somos-mas-que-llantas.jpg"
+    }
+  ],
+  "ruta_noticia": "/yokohama-advan-ganador-de-la-serie/"
+}

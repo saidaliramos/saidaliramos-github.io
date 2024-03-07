@@ -1,0 +1,16 @@
+{
+  "id": 11,
+  "ruta_imagen_noticia": "/images/backgrounds/pages/centroamerica.png",
+  "titulo_noticia": "Yokohama la llanta oficial de la la Porsche Cup North América",
+  "categoria": "noticia",
+  "fecha_creacion_noticia": "2023-11-01 00:00:00",
+  "descripcion_noticia": "Hiratsuka, Japón—Yokohama Rubber Co., Ltd., anunció hoy que su subsidiaria estadounidense Yokohama Tire Corporation (YTC) ha sido nombrada el nuevo Socio Premier de la Porsche Carrera Cup North América en 2024 y suministrará neumáticos de carreras ADVAN para todas las carreras de la serie que se celebrarán en los Estados Unidos y Canadá. Yokohama suministrará neumáticos ADVAN A005 para condiciones secas y ADVAN A006 para condiciones húmedas.",
+  "contenido_noticia": [
+    {
+      "id": 1,
+      "tipo_seccion": "image",
+      "contenido_seccion": "/images/backgrounds/pages/somos-mas-que-llantas.jpg"
+    }
+  ],
+  "ruta_noticia": "/elementor-422020/"
+}
