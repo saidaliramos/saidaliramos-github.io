@@ -47,10 +47,7 @@
       "contenido_seccion": [
         {
           "id": 0,
-          "href": "https://www.y-yokohama.com/release/?id=4162&lang=en"
-        },
-        {
-          "id": 1,
+          "href": "https://www.y-yokohama.com/release/?id=4162&lang=en",
           "texto_boton": "Leer más"
         }
       ]
