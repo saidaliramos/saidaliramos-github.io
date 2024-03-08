@@ -10,6 +10,31 @@
       "id": 1,
       "tipo_seccion": "image",
       "contenido_seccion": "/images/backgrounds/pages/somos-mas-que-llantas.jpg"
+    },
+    {
+      "id": 2,
+      "tipo_seccion": "paragraph",
+      "contenido_seccion": "Yokohama se une a la última tendencia en personalización de automóviles: vehículos eléctricos (EV).<br />Yokohama ha sido nombrado patrocinador presentador de Electrify Showoff Driven by Yokohama.<br />El Electrify Showoff es la nueva sección especial dedicada a la próxima generación de cultura automovilística y tendencias de personalización. Es parte de Electrify Expo, el festival de vehículos eléctricos más grande de América del Norte, que inicia su gira por siete ciudades del 19 al 21 de mayo en Long Beach, California.<br />“Estamos encantados de ser el patrocinador principal de Electrify Showoff”, dijo Andrew Briggs, vicepresidente de marketing y gestión de productos de Yokohama Tire. “Yokohama ha ocupado un lugar en el mercado de accesorios para entusiastas durante mucho tiempo, por lo que es genial ver una nueva ola de entusiastas que crean una nueva cultura de automóviles EV ante nuestros ojos. ¡Estamos ansiosos por ver lo que podría deparar este futuro recién imaginado, y Showoff será EL lugar para verlo!"
+    },
+    {
+      "id": 3,
+      "tipo_seccion": "image",
+      "contenido_seccion": "/images/backgrounds/pages/somos-mas-que-llantas.jpg",
+      "tamano_imagen": "medium"
+    },
+    {
+      "id": 4,
+      "tipo_seccion": "button",
+      "contenido_seccion": [
+        {
+          "id": 0,
+          "href": "https://www.yokohamatire.com/newsroom/high-voltage-yokohama-tire-and-electrify-expo-partner-on-new-showoff-customized-ev-section"
+        },
+        {
+          "id": 1,
+          "texto_boton": "Leer más"
+        }
+      ]
     }
   ],
   "ruta_noticia": "/elementor-420399/"

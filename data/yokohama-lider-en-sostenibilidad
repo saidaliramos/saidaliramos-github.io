@@ -10,6 +10,31 @@
       "id": 1,
       "tipo_seccion": "image",
       "contenido_seccion": "/images/backgrounds/pages/somos-mas-que-llantas.jpg"
+    },
+    {
+      "id": 2,
+      "tipo_seccion": "paragraph",
+      "contenido_seccion": "En Yokohama nos enorgullece anunciar que una vez más hemos sido reconocidos por nuestro liderazgo en sostenibilidad corporativa por parte de la organización ambiental mundial sin fines de lucro CDP. La misma nombró, el 13 de diciembre, a Yokohama Rubber en su prestigiosa Lista A por abordar el cambio climático.<br />La selección de Yokohama Rubber reconoce los esfuerzos de la corporación para reducir las emisiones, mitigar los riesgos climáticos y desarrollar la economía baja en carbono, según las respuestas al cuestionario de cambio climático 2022 de CDP, que calificó a más de 10,000 empresas en todo el mundo. Esta es la cuarta vez que Yokohama Rubber está en la lista A, luego de su selección en 2016, 2019 y 2020.<br />CDP es una organización global sin fines de lucro, que tiene como objetivo lograr una economía sostenible alentando a las empresas y a los gobiernos a reducir sus emisiones de gases de efecto invernadero, salvaguardar los recursos hídricos y proteger los bosques. Asimismo, aprovecha el poder de los inversores y los compradores para motivar a las empresas a divulgar y gestionar sus impactos ambientales.<br />El proceso anual de calificación y divulgación ambiental de CDP es ampliamente reconocido como el «estándar de oro de la transparencia ambiental corporativa». En 2022, más de 680 inversores con más de 130 billones de dólares estadounidenses en activos y 280 compradores importantes con 6,4 billones de dólares estadounidenses en gastos de adquisición solicitaron a las empresas que divulgaran datos sobre impactos ambientales, riesgos y oportunidades a través de la plataforma de CDP. Respondieron un récord de 18 700 empresas.<br />Las iniciativas de sostenibilidad incluidas en Yokohama Transformation 2023 (YX2023), el plan de gestión a mediano plazo de Yokohama Rubber para los años fiscales 2021-2023, se basan en el concepto de «Cuidar el futuro».<br />Al implementar iniciativas de sostenibilidad bajo este concepto, Yokohama Rubber se esfuerza por ayudar a resolver problemas sociales a través de sus actividades comerciales. Yokohama Rubber también está implementando iniciativas relacionadas con el medio ambiente basadas en una estrategia de tres pilares enfocada en lograr la neutralidad de carbono, una economía circular y la coexistencia con la naturaleza, y ha establecido una hoja de ruta para lograr sus objetivos a mediano y largo plazo en cada uno de estos pilares.<br />El esfuerzo de la compañía para lograr la neutralidad de carbono está adoptando un enfoque doble que combina medidas para reducir las emisiones de carbono, así como actividades para contrarrestarlas, como el YOKOHAMA Forever Forest, que ha plantado árboles en las ubicaciones de Yokohama Rubber en Japón y en el extranjero. A través de tales esfuerzos, Yokohama Rubber pretende ser neutral en carbono en 2050."
+    },
+    {
+      "id": 3,
+      "tipo_seccion": "image",
+      "contenido_seccion": "/images/backgrounds/pages/somos-mas-que-llantas.jpg",
+      "tamano_imagen": "small"
+    },
+    {
+      "id": 4,
+      "tipo_seccion": "button",
+      "contenido_seccion": [
+        {
+          "id": 0,
+          "href": "https://www.yokohama.eu/es/noticias/3662/?cHash=394db8f3cbf7d65e3febe79e5a22b437"
+        },
+        {
+          "id": 1,
+          "texto_boton": "Leer más"
+        }
+      ]
     }
   ],
   "ruta_noticia": "/yokohama-lider-en-sostenibilidad/"

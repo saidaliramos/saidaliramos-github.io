@@ -10,6 +10,17 @@
       "id": 1,
       "tipo_seccion": "image",
       "contenido_seccion": "/images/backgrounds/pages/somos-mas-que-llantas.jpg"
+    },
+    {
+      "id": 2,
+      "tipo_seccion": "paragraph",
+      "contenido_seccion": "Lanzamos nuestro plan de actividades Motorsports 2023, en nuestro actual plan de gestión a mediano plazo el “Yokohama Transformación 2023 (YX2023)”, nos planteamos como objetivo maximizar los índices de ventas de nuestras marcas de alto valor agregado, ADVAN, y GEOLANDAR; en este plan YX2023 también se pretende posicionar nuestras marcas en actividades de deportes de motor como crucial para el esfuerzo de la compañía por desarrollar nuevas tecnologías de llantas que fortalecerán aún más las marcas ADVAN y GEOLANDAR.<br />Por lo tanto, en Yokohama estaremos  suministrando llantas para una amplia variedad de eventos de deportes de motor en Japón y en todo el mundo, desde eventos de primera categoría hasta eventos de base.<br />A continuación dejamos las categorías de las competencias en las que tendremos presencia a nivel internacional, te invitamos a estar pendiente de nuestras noticias y próximos eventos para que no te pierdas ningún detalle."
+    },
+    {
+      "id": 3,
+      "tipo_seccion": "image",
+      "contenido_seccion": "/images/backgrounds/pages/somos-mas-que-llantas.jpg",
+      "tamano_imagen": "medium"
     }
   ],
   "ruta_noticia": "/plan-yokohama-motor-sports-2023/"

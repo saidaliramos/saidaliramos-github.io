@@ -10,6 +10,26 @@
       "id": 1,
       "tipo_seccion": "image",
       "contenido_seccion": "/images/backgrounds/pages/somos-mas-que-llantas.jpg"
+    },
+    {
+      "id": 2,
+      "tipo_seccion": "title",
+      "contenido_seccion": "RETIRO VOLUNTARIO DE PRODUCTOS YOKOHAMA"
+    },
+    {
+      "id": 3,
+      "tipo_seccion": "paragraph",
+      "contenido_seccion": "Yokohama Tire México ha determinado que una condición de manufactura podría existir en algunas llantas de camión radial afectando su correcta funcionalidad. El modelo afectado por esta anomalía es el 504C únicamente en la medida 11R22.5 con fechas de producción de acuerdo con la siguiente tabla:"
+    },
+    {
+      "id": 4,
+      "tipo_seccion": "table",
+      "contenido_seccion": "Insert table"
+    },
+    {
+      "id": 5,
+      "tipo_seccion": "paragraph",
+      "contenido_seccion": "La razón del retiro voluntario es debido a que existe la posibilidad de que, si se mantiene en servicio, la presión de aire podría migrar hacia el costado provocando una burbuja, lo cual podría conducir a una pérdida de presión en la llanta y una posible inestabilidad en el control del vehículo.<br />Yokohama Tire México reemplazará sin cargo al consumidor las llantas objeto de este retiro voluntario. Para obtener ayuda en determinar si usted tiene llantas que se encuentren bajo este llamado a revisión, por favor contáctese con su Distribuidor Autorizado Yokohama.<br />Si requiere información adicional, escríbanos a la dirección de correo electrónico: mercadotecnia@yokohamatire.mx donde con gusto atenderemos sus preguntas.<br />La seguridad de nuestros clientes, es lo más importante para nosotros."
     }
   ],
   "ruta_noticia": "/comunicado/"

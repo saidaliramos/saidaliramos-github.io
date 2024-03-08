@@ -10,6 +10,30 @@
       "id": 1,
       "tipo_seccion": "image",
       "contenido_seccion": "/images/backgrounds/pages/somos-mas-que-llantas.jpg"
+    },
+    {
+      "id": 2,
+      "tipo_seccion": "title",
+      "contenido_seccion": "Yokohama será proveedor de llantas para SUPER FÓRMULA 2023, elaboradas con material sostenible del 33%."
+    },
+    {
+      "id": 3,
+      "tipo_seccion": "twinImages",
+      "contenido_seccion": [
+        {
+          "id": 0,
+          "imagen": "/images/backgrounds/pages/centroamerica.png"
+        },
+        {
+          "id": 1,
+          "imagen_dos": "/images/backgrounds/pages/somos-mas-que-llantas.jpg"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "tipo_seccion": "paragraph",
+      "contenido_seccion": "Yokohama proveerá llantas de carreras ADVAN con un contenido de material sostenible como llantas de control para el campeonato japonés SUPER FORMULA a partir de la temporada 2023. La compañía ha completado el desarrollo de llantas para uso en condiciones secas y continuará desarrollando llantas para condiciones húmedas con el objetivo de suministrarlos a partir de 2023.<br />Las llantas de uso en secos que proveerá Yokohama Rubber utilizan caucho natural y varios compuestos de origen natural, incluido el aceite producido a partir de nueces de palma aceitera y cáscaras de naranja, así como hierro reciclado, caucho reciclado de neumáticos de desecho y caucho sintético producido mediante el método de balance de masa.<br />Como resultado, los materiales sostenibles representan aproximadamente el 33 % de todos los materiales utilizados en las llantas, que han demostrado un rendimiento equivalente al de las llantas estándar utilizados en las carreras de SUPER FORMULA 2022.<br />Las llantas de carreras fabricados con materiales sostenibles se suministrarán en apoyo del proyecto SUPER FORMULA NEXT 50 (SF NEXT 50) anunciado en octubre de 2021 por Japan Race Promotion Inc., que ejecuta la serie SUPER FORMULA. El proyecto SF NEXT 50 se promueve con la cooperación de varias empresas que comparten el objetivo común de crear una industria de automovilismo sostenible respondiendo a los cambios en el entorno que rodea a las industrias del automóvil y del automovilismo, incluida la promoción de los ODS y la neutralidad de carbono."
     }
   ],
   "ruta_noticia": "/elementor-420006/"

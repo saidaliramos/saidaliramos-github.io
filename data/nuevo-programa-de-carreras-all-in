@@ -10,6 +10,36 @@
       "id": 1,
       "tipo_seccion": "image",
       "contenido_seccion": "/images/backgrounds/pages/somos-mas-que-llantas.jpg"
+    },
+    {
+      "id": 2,
+      "tipo_seccion": "paragraph",
+      "contenido_seccion": "Cuando se trata de ayudar a diversos conductores a progresar en sus carreras, Yokohama Tire es “¡All-In!”<br />En Yokohama lanzamos “Yokohama All-In”, un nuevo programa diseñado para promover la inclusión en las carreras, según Patricia Wall, gerente de deportes de motor de Yokohama. El programa comienza con el Porsche Sprint Challenge North America by Yokohama en Sebring International Raceway, del 24 al 26 de marzo.<br />Wall dijo que Yokohama se ha asociado con MDK Motorsports en “All-In” para la temporada 2023 del Porsche Sprint Challenge. “Estamos colaborando con Megan Kvamme, CEO de MDK, en esta asociación. Es una mujer de negocios sumamente exitosa que comparte nuestro interés mutuo en promover la diversidad en las carreras”. El equipo de MDK está estructurado para ayudar a los conductores a progresar en sus carreras. Tienen entrenadores de conductores experimentados, un personal de ingeniería talentoso y un simulador de carreras interno."
+    },
+    {
+      "id": 3,
+      "tipo_seccion": "image",
+      "contenido_seccion": "/images/backgrounds/pages/somos-mas-que-llantas.jpg",
+      "tamano_imagen": "medium"
+    },
+    {
+      "id": 4,
+      "tipo_seccion": "paragraph",
+      "contenido_seccion": "“La intención con All-In es convertirlo en un programa recurrente. Estén atentos para obtener más detalles sobre el proceso de selección de pilotos para la temporada 2024”, dijo Wall."
+    },
+    {
+      "id": 5,
+      "tipo_seccion": "button",
+      "contenido_seccion": [
+        {
+          "id": 0,
+          "href": "https://www.yokohamatire.com/newsroom/yokohama-tire-announces-new-diversity-racing-program"
+        },
+        {
+          "id": 1,
+          "texto_boton": "Leer más"
+        }
+      ]
     }
   ],
   "ruta_noticia": "/nuevo-programa-de-carreras-all-in/"

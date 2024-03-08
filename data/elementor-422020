@@ -10,6 +10,42 @@
       "id": 1,
       "tipo_seccion": "image",
       "contenido_seccion": "/images/backgrounds/pages/somos-mas-que-llantas.jpg"
+    },
+    {
+      "id": 2,
+      "tipo_seccion": "paragraph",
+      "contenido_seccion": "31 de Octubre 2023<br />Hiratsuka, Japón—Yokohama Rubber Co., Ltd., anunció hoy que su subsidiaria estadounidense Yokohama Tire Corporation (YTC) ha sido nombrada el nuevo Socio Premier de la Porsche Carrera Cup North América en 2024 y suministrará neumáticos de carreras ADVAN para todas las carreras de la serie que se celebrarán en los Estados Unidos y Canadá. Yokohama suministrará neumáticos ADVAN A005 para condiciones secas y ADVAN A006 para condiciones húmedas.<br />La Porsche Carrera Cup North América es la serie de carreras monomarca de primer nivel de Porsche en América del Norte y parte de la Porsche Carrera Cup global, que es ampliamente considerada la serie de carreras más rápida del mundo. En 2024, la Porsche Carrera Cup North América contará con 16 carreras en ocho circuitos diferentes en los Estados Unidos y Canadá, con pilotos profesionales y aficionados compitiendo en autos de carreras Porsche 911 GT3 Cup con especificaciones basadas en el 911 Carrera  de Porsche (Type 992). Yokohama también suministrará neumáticos para el Porsche Sprint Challenge North América by Yokohama 2024 y el Porsche Sprint Challenge USA West by Yokohama."
+    },
+    {
+      "id": 3,
+      "tipo_seccion": "image",
+      "contenido_seccion": "/images/backgrounds/pages/somos-mas-que-llantas.jpg",
+      "tamano_imagen": "medium"
+    },
+    {
+      "id": 4,
+      "tipo_seccion": "paragraph",
+      "contenido_seccion": "La estrategia de Yokohama a mediano plazo (2021-2023) conocida como “Yokohama Transformation 2023” ( YX2023  ) tiene como objetivo principal maximizar la relación de ventas de neumáticos YOKOHAMA de alto valor añadido y tecnología de punta, principalmente de su marca ADVAN de neumáticos de ultra alto desempeño, y la marca GEOLANDAR de neumáticos para SUV y Pick Ups, así como de neumáticos de invierno.<br />YX2023 promueve la participación en actividades de automovilismo como algo crucial para desarrollar nuevas tecnologías de neumáticos que fortalecerán aún más las marcas ADVAN y GEOLANDAR. Por lo tanto, Yokohama Rubber Company vuelve a participar en una amplia variedad de eventos de automovilismo en Japón y en todo el mundo, en los eventos más importantes de cada categoría."
+    },
+    {
+      "id": 5,
+      "tipo_seccion": "button",
+      "contenido_seccion": [
+        {
+          "id": 0,
+          "href": "https://www.y-yokohama.com/release/?id=4162&lang=en"
+        },
+        {
+          "id": 1,
+          "texto_boton": "Leer más"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "tipo_seccion": "image",
+      "contenido_seccion": "/images/backgrounds/pages/somos-mas-que-llantas.jpg",
+      "tamano_imagen": "small"
     }
   ],
   "ruta_noticia": "/elementor-422020/"

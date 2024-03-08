@@ -679,6 +679,49 @@
         "id": 1,
         "tipo_seccion": "image",
         "contenido_seccion": "/images/backgrounds/pages/somos-mas-que-llantas.jpg"
+      },
+      {
+        "id": 2,
+        "tipo_seccion": "paragraph",
+        "contenido_seccion": "YOKOHAMA presenta la gama de llantas “E+”: una marca patentada para vehículos eléctricos Premium. YOKOHAMA aplicará una nuevo estampado en el costado denominado “E+” a sus llantas diseñadas específicamente para autos, camiones y autobuses eléctricos."
+      },
+      {
+        "id": 3,
+        "tipo_seccion": "imageParagraph",
+        "contenido_seccion": [
+          {
+            "id": 0,
+            "imagen": "/images/backgrounds/pages/medio-ambiente.jpeg"
+          },
+          {
+            "id": 1,
+            "parrafo": "La nueva marca patentada “E+” es la respuesta de YOKOHAMA a la creciente demanda de llantas para vehículos eléctricos."
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "tipo_seccion": "paragraph",
+        "contenido_seccion": "Estas llantas deben cumplir con varios requisitos, como por ejemplo tener la fuerza necesaria para soportar las cargas adicionales asociadas con las baterías eléctricas, el torque aplicado por el motor eléctrico, y también deben funcionar de manera silenciosa, así como contribuir al uso eficiente de la electricidad y la autonomía de conducción del vehículo."
+      },
+      {
+        "id": 5,
+        "tipo_seccion": "twinImages",
+        "contenido_seccion": [
+          {
+            "id": 0,
+            "imagen": "/images/backgrounds/pages/centroamerica.png"
+          },
+          {
+            "id": 1,
+            "imagen_dos": "/images/backgrounds/pages/somos-mas-que-llantas.jpg"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "tipo_seccion": "paragraph",
+        "contenido_seccion": "Además de proveer llantas de equipo original (OE) para vehículos eléctricos a los principales fabricantes de automóviles del mundo, en YOKOHAMA también se está acelerando el desarrollo de llantas de reemplazo para vehículos eléctricos mediante la aplicación de diversas e innovadoras tecnologías.El primer modelo de llantas YOKOHAMA que llevará la marca “E+” serán las nuevas ADVAN Sport EV, una llanta de verano de ultra alto desempeño, para vehículos eléctricos cuyo lanzamiento está previsto en Europa y otros mercados a partir del otoño de 2023."
       }
     ],
     "ruta_noticia": "/elementor-422074/"
@@ -695,6 +738,42 @@
         "id": 1,
         "tipo_seccion": "image",
         "contenido_seccion": "/images/backgrounds/pages/somos-mas-que-llantas.jpg"
+      },
+      {
+        "id": 2,
+        "tipo_seccion": "paragraph",
+        "contenido_seccion": "31 de Octubre 2023<br />Hiratsuka, Japón—Yokohama Rubber Co., Ltd., anunció hoy que su subsidiaria estadounidense Yokohama Tire Corporation (YTC) ha sido nombrada el nuevo Socio Premier de la Porsche Carrera Cup North América en 2024 y suministrará neumáticos de carreras ADVAN para todas las carreras de la serie que se celebrarán en los Estados Unidos y Canadá. Yokohama suministrará neumáticos ADVAN A005 para condiciones secas y ADVAN A006 para condiciones húmedas.<br />La Porsche Carrera Cup North América es la serie de carreras monomarca de primer nivel de Porsche en América del Norte y parte de la Porsche Carrera Cup global, que es ampliamente considerada la serie de carreras más rápida del mundo. En 2024, la Porsche Carrera Cup North América contará con 16 carreras en ocho circuitos diferentes en los Estados Unidos y Canadá, con pilotos profesionales y aficionados compitiendo en autos de carreras Porsche 911 GT3 Cup con especificaciones basadas en el 911 Carrera  de Porsche (Type 992). Yokohama también suministrará neumáticos para el Porsche Sprint Challenge North América by Yokohama 2024 y el Porsche Sprint Challenge USA West by Yokohama."
+      },
+      {
+        "id": 3,
+        "tipo_seccion": "image",
+        "contenido_seccion": "/images/backgrounds/pages/somos-mas-que-llantas.jpg",
+        "tamano_imagen": "medium"
+      },
+      {
+        "id": 4,
+        "tipo_seccion": "paragraph",
+        "contenido_seccion": "La estrategia de Yokohama a mediano plazo (2021-2023) conocida como “Yokohama Transformation 2023” ( YX2023  ) tiene como objetivo principal maximizar la relación de ventas de neumáticos YOKOHAMA de alto valor añadido y tecnología de punta, principalmente de su marca ADVAN de neumáticos de ultra alto desempeño, y la marca GEOLANDAR de neumáticos para SUV y Pick Ups, así como de neumáticos de invierno.<br />YX2023 promueve la participación en actividades de automovilismo como algo crucial para desarrollar nuevas tecnologías de neumáticos que fortalecerán aún más las marcas ADVAN y GEOLANDAR. Por lo tanto, Yokohama Rubber Company vuelve a participar en una amplia variedad de eventos de automovilismo en Japón y en todo el mundo, en los eventos más importantes de cada categoría."
+      },
+      {
+        "id": 5,
+        "tipo_seccion": "button",
+        "contenido_seccion": [
+          {
+            "id": 0,
+            "href": "https://www.y-yokohama.com/release/?id=4162&lang=en"
+          },
+          {
+            "id": 1,
+            "texto_boton": "Leer más"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "tipo_seccion": "image",
+        "contenido_seccion": "/images/backgrounds/pages/somos-mas-que-llantas.jpg",
+        "tamano_imagen": "small"
       }
     ],
     "ruta_noticia": "/elementor-422020/"
@@ -711,6 +790,26 @@
         "id": 1,
         "tipo_seccion": "image",
         "contenido_seccion": "/images/backgrounds/pages/somos-mas-que-llantas.jpg"
+      },
+      {
+        "id": 2,
+        "tipo_seccion": "title",
+        "contenido_seccion": "RETIRO VOLUNTARIO DE PRODUCTOS YOKOHAMA"
+      },
+      {
+        "id": 3,
+        "tipo_seccion": "paragraph",
+        "contenido_seccion": "Yokohama Tire México ha determinado que una condición de manufactura podría existir en algunas llantas de camión radial afectando su correcta funcionalidad. El modelo afectado por esta anomalía es el 504C únicamente en la medida 11R22.5 con fechas de producción de acuerdo con la siguiente tabla:"
+      },
+      {
+        "id": 4,
+        "tipo_seccion": "table",
+        "contenido_seccion": "Insert table"
+      },
+      {
+        "id": 5,
+        "tipo_seccion": "paragraph",
+        "contenido_seccion": "La razón del retiro voluntario es debido a que existe la posibilidad de que, si se mantiene en servicio, la presión de aire podría migrar hacia el costado provocando una burbuja, lo cual podría conducir a una pérdida de presión en la llanta y una posible inestabilidad en el control del vehículo.<br />Yokohama Tire México reemplazará sin cargo al consumidor las llantas objeto de este retiro voluntario. Para obtener ayuda en determinar si usted tiene llantas que se encuentren bajo este llamado a revisión, por favor contáctese con su Distribuidor Autorizado Yokohama.<br />Si requiere información adicional, escríbanos a la dirección de correo electrónico: mercadotecnia@yokohamatire.mx donde con gusto atenderemos sus preguntas.<br />La seguridad de nuestros clientes, es lo más importante para nosotros."
       }
     ],
     "ruta_noticia": "/comunicado/"
@@ -727,6 +826,31 @@
         "id": 1,
         "tipo_seccion": "image",
         "contenido_seccion": "/images/backgrounds/pages/somos-mas-que-llantas.jpg"
+      },
+      {
+        "id": 2,
+        "tipo_seccion": "paragraph",
+        "contenido_seccion": "Yokohama se une a la última tendencia en personalización de automóviles: vehículos eléctricos (EV).<br />Yokohama ha sido nombrado patrocinador presentador de Electrify Showoff Driven by Yokohama.<br />El Electrify Showoff es la nueva sección especial dedicada a la próxima generación de cultura automovilística y tendencias de personalización. Es parte de Electrify Expo, el festival de vehículos eléctricos más grande de América del Norte, que inicia su gira por siete ciudades del 19 al 21 de mayo en Long Beach, California.<br />“Estamos encantados de ser el patrocinador principal de Electrify Showoff”, dijo Andrew Briggs, vicepresidente de marketing y gestión de productos de Yokohama Tire. “Yokohama ha ocupado un lugar en el mercado de accesorios para entusiastas durante mucho tiempo, por lo que es genial ver una nueva ola de entusiastas que crean una nueva cultura de automóviles EV ante nuestros ojos. ¡Estamos ansiosos por ver lo que podría deparar este futuro recién imaginado, y Showoff será EL lugar para verlo!"
+      },
+      {
+        "id": 3,
+        "tipo_seccion": "image",
+        "contenido_seccion": "/images/backgrounds/pages/somos-mas-que-llantas.jpg",
+        "tamano_imagen": "medium"
+      },
+      {
+        "id": 4,
+        "tipo_seccion": "button",
+        "contenido_seccion": [
+          {
+            "id": 0,
+            "href": "https://www.yokohamatire.com/newsroom/high-voltage-yokohama-tire-and-electrify-expo-partner-on-new-showoff-customized-ev-section"
+          },
+          {
+            "id": 1,
+            "texto_boton": "Leer más"
+          }
+        ]
       }
     ],
     "ruta_noticia": "/elementor-420399/"
@@ -743,6 +867,46 @@
         "id": 1,
         "tipo_seccion": "image",
         "contenido_seccion": "/images/backgrounds/pages/somos-mas-que-llantas.jpg"
+      },
+      {
+        "id": 2,
+        "tipo_seccion": "paragraph",
+        "contenido_seccion": "Nos es grato compartir que el 22 y 23 de abril del presente año, tuvimos el honor de participar en “Gran concurso Internacional de la elegancia”, en este fin de semana los visitantes pudieron admirar más de 450 vehículos de colección con una antigüedad mínima de 40 años."
+      },
+      {
+        "id": 3,
+        "tipo_seccion": "twinImages",
+        "contenido_seccion": [
+          {
+            "id": 0,
+            "imagen": "/images/backgrounds/pages/centroamerica.png"
+          },
+          {
+            "id": 1,
+            "imagen_dos": "/images/backgrounds/pages/somos-mas-que-llantas.jpg"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "tipo_seccion": "paragraph",
+        "contenido_seccion": "Nuestra marca Yokohama tuvo una excelente participación exhibiendo los más recientes lanzamientos con la más avanzada tecnología, además de realizar dinámicas y promociones especiales para los visitantes a este evento único en su clase."
+      },
+      {
+        "id": 5,
+        "tipo_seccion": "image",
+        "contenido_seccion": "/images/backgrounds/pages/somos-mas-que-llantas.jpg",
+        "tamano_imagen": "medium"
+      },
+      {
+        "id": 6,
+        "tipo_seccion": "paragraph",
+        "contenido_seccion": "Te invitamos a ver la recapituación de esta increible experiencia en el siguiente video:"
+      },
+      {
+        "id": 7,
+        "tipo_seccion": "video",
+        "contenido_seccion": "https://www.youtube.com/embed/Xt8qOtX_7HE?si=xf-p-xpEULCMmj8X"
       }
     ],
     "ruta_noticia": "/yokohama-en-el-concurso-internacional-de-elegancia-2023/"
@@ -759,6 +923,39 @@
         "id": 1,
         "tipo_seccion": "image",
         "contenido_seccion": "/images/backgrounds/pages/somos-mas-que-llantas.jpg"
+      },
+      {
+        "id": 2,
+        "tipo_seccion": "paragraph",
+        "contenido_seccion": "Un automóvil que funciona con llantas ADVAN de Yokohama fue el ganador general de la segunda ronda de la Nürburgring Endurance Series (NLS) 2023. El auto ganador fue equipado con llantas ADVAN A005 para condiciones secas y llantas ADVAN A006 para condiciones húmedas.<br />Como parte del DESAFÍO ADVAN de este año, que busca maximizar las ventas de neumáticos ADVAN durante el 45.º aniversario de la marca, una auto con colores ADVAN hizo un exitoso debut en la Ronda 2 de la NLS, compitiendo hacia la victoria y dejando una excelente y  fuerte impresión de los nuestras llantas ADVAN.<br />El automovil ganador fue el BMW M4 GT3 n.º 34 inscrito en la clase NLS SP9 Pro por Walkenhorst Motorsport, un equipo de carreras de clientes de BMW. Los pilotos Jakub Giermaziak y Jesse Krohn condujeron el auto n.° 34 al cuarto lugar en una pista mojada en la carrera clasificatoria y luego aceleraron a fondo de principio a fin sin ningún problema en una pista seca después de la lluvia en la carrera final, cruzando la línea de meta. 21.764 segundos por delante del coche del segundo lugar.<br />La NLS es una serie de carreras de resistencia que se lleva a cabo en la pista de carreras de Nürburgring, considerada por muchos como la pista más exigente del mundo. Las primeras rondas de la serie se posicionan como preludios de la carrera de 24 horas de Nürburgring.<br />Este año, unos 170 autos competirán en las nueve carreras de la NLS que se llevarán a cabo de marzo a octubre. Yokohama Rubber está suministrando neumáticos de carreras ADVAN a dos autos BMW M4 GT3 de color ADVAN que compiten en la clase SP9 Pro, incluido el auto #34 ganador de la Ronda 2. La compañía también tiene como objetivo ganar el campeonato general en la carrera de 24 horas de Nürburgring de mayo, donde apoyará a los mismos dos autos."
+      },
+      {
+        "id": 3,
+        "tipo_seccion": "twinImages",
+        "contenido_seccion": [
+          {
+            "id": 0,
+            "imagen": "/images/backgrounds/pages/centroamerica.png"
+          },
+          {
+            "id": 1,
+            "imagen_dos": "/images/backgrounds/pages/somos-mas-que-llantas.jpg"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "tipo_seccion": "button",
+        "contenido_seccion": [
+          {
+            "id": 0,
+            "href": "https://www.yokohama.eu/news/3840/?cHash=58f6847fa5c6788dde66f7fcd0cd721b"
+          },
+          {
+            "id": 1,
+            "texto_boton": "Leer más"
+          }
+        ]
       }
     ],
     "ruta_noticia": "/elementor-420306/"
@@ -775,6 +972,36 @@
         "id": 1,
         "tipo_seccion": "image",
         "contenido_seccion": "/images/backgrounds/pages/somos-mas-que-llantas.jpg"
+      },
+      {
+        "id": 2,
+        "tipo_seccion": "paragraph",
+        "contenido_seccion": "Cuando se trata de ayudar a diversos conductores a progresar en sus carreras, Yokohama Tire es “¡All-In!”<br />En Yokohama lanzamos “Yokohama All-In”, un nuevo programa diseñado para promover la inclusión en las carreras, según Patricia Wall, gerente de deportes de motor de Yokohama. El programa comienza con el Porsche Sprint Challenge North America by Yokohama en Sebring International Raceway, del 24 al 26 de marzo.<br />Wall dijo que Yokohama se ha asociado con MDK Motorsports en “All-In” para la temporada 2023 del Porsche Sprint Challenge. “Estamos colaborando con Megan Kvamme, CEO de MDK, en esta asociación. Es una mujer de negocios sumamente exitosa que comparte nuestro interés mutuo en promover la diversidad en las carreras”. El equipo de MDK está estructurado para ayudar a los conductores a progresar en sus carreras. Tienen entrenadores de conductores experimentados, un personal de ingeniería talentoso y un simulador de carreras interno."
+      },
+      {
+        "id": 3,
+        "tipo_seccion": "image",
+        "contenido_seccion": "/images/backgrounds/pages/somos-mas-que-llantas.jpg",
+        "tamano_imagen": "medium"
+      },
+      {
+        "id": 4,
+        "tipo_seccion": "paragraph",
+        "contenido_seccion": "“La intención con All-In es convertirlo en un programa recurrente. Estén atentos para obtener más detalles sobre el proceso de selección de pilotos para la temporada 2024”, dijo Wall."
+      },
+      {
+        "id": 5,
+        "tipo_seccion": "button",
+        "contenido_seccion": [
+          {
+            "id": 0,
+            "href": "https://www.yokohamatire.com/newsroom/yokohama-tire-announces-new-diversity-racing-program"
+          },
+          {
+            "id": 1,
+            "texto_boton": "Leer más"
+          }
+        ]
       }
     ],
     "ruta_noticia": "/nuevo-programa-de-carreras-all-in/"
@@ -791,6 +1018,39 @@
         "id": 1,
         "tipo_seccion": "image",
         "contenido_seccion": "/images/backgrounds/pages/somos-mas-que-llantas.jpg"
+      },
+      {
+        "id": 2,
+        "tipo_seccion": "paragraph",
+        "contenido_seccion": "En Yokohama nos entusiasma compartir con ustedes que por tercera temporada consecutiva, Yokohama se une a este gran evento como socio oficial de neumáticos y patrocinador de la serie de carreras de autos deportivos organizada por el fabricante de autos alemán Porsche y sancionada por la USAC, con carreras en Estados Unidos y Canadá.<br />“Nos sentimos nuevamente honrados de unir fuerzas con PMNA y USAC en las carreras monomarca Porsche Sprint Challenge en los Estados Unidos”, dijo Patricia Wall, gerente de deportes de motor de Yokohama. “Esta emocionante serie encaja perfectamente con nuestro programa general de deportes de motor y presenta otra excelente oportunidad para destacar nuestros slicks de carreras ADVAN® en algunas de las carreras más competitivas de América del Norte”.<br />“La serie Porsche Sprint Challenge North America está entrando en su tercera temporada en 2023”, dijo el presidente de USAC, Kevin Miller, “y el apoyo de Yokohama ha sido monumental en la construcción de una de las series monomarca más grandes de los EE. UU. ¡Esperamos lanzar nuestro campeonato de 2023 en Sebring y competir en los lugares de carreras más emblemáticos de Estados Unidos durante toda la temporada y coronar a nuestros campeones de 2023 en el Indianapolis Motor Speedway en octubre!”.<br />El Porsche Sprint Challenge North America by Yokohama es parte de la extensa lista de Yokohama de actividades de deportes de motor con sede en América del Norte para 2023, tanto dentro como fuera de la carretera."
+      },
+      {
+        "id": 3,
+        "tipo_seccion": "twinImages",
+        "contenido_seccion": [
+          {
+            "id": 0,
+            "imagen": "/images/backgrounds/pages/centroamerica.png"
+          },
+          {
+            "id": 1,
+            "imagen_dos": "/images/backgrounds/pages/somos-mas-que-llantas.jpg"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "tipo_seccion": "button",
+        "contenido_seccion": [
+          {
+            "id": 0,
+            "href": "https://www.yokohamatire.com/newsroom/yokohama-tire-returns-as-sponsor-of-the-porsche-sprint-challenge-north-america-by-yokohama"
+          },
+          {
+            "id": 1,
+            "texto_boton": "Leer más"
+          }
+        ]
       }
     ],
     "ruta_noticia": "/elementor-420285/"
@@ -807,6 +1067,37 @@
         "id": 1,
         "tipo_seccion": "image",
         "contenido_seccion": "/images/backgrounds/pages/somos-mas-que-llantas.jpg"
+      },
+      {
+        "id": 2,
+        "tipo_seccion": "image",
+        "contenido_seccion": "/images/backgrounds/pages/somos-mas-que-llantas.jpg",
+        "tamano_imagen": "small"
+      },
+      {
+        "id": 3,
+        "tipo_seccion": "paragraph",
+        "contenido_seccion": "Nos es grato compartir que hemos finalizado exitosamente la adquisición de Trelleborg Wheel Systems (TWS) por parte de Yokohama Rubber Co. Ltd. (YRC).<br />Trelleborg Wheel System es una empresa dedicada a la fabricación y venta de neumáticos fuera de carretera (OHT) para maquinaria agrícola e industrial. De tal forma que TWS formará parte de la división OHT de Yokohama a nivel internacional, y operará de forma independiente bajo el nombre “Yokohama TWS”.<br />La adquisición de Trelleborg Wheel Systems permitirá a la Corporación Yokohama consolidar su lugar entre los principales fabricantes de neumáticos a nivel mundial. La división OHT (llantas fuera de carretera), ahora se encuentra firmemente entre los tres principales fabricantes a nivel global que atienden a la industria OHT y es ahora el número 1 en el segmento agrícola."
+      },
+      {
+        "id": 4,
+        "tipo_seccion": "image",
+        "contenido_seccion": "/images/backgrounds/pages/somos-mas-que-llantas.jpg",
+        "tamano_imagen": "small"
+      },
+      {
+        "id": 5,
+        "tipo_seccion": "button",
+        "contenido_seccion": [
+          {
+            "id": 0,
+            "href": "https://www.y-yokohama.com/release/?id=4024&lang=en"
+          },
+          {
+            "id": 1,
+            "texto_boton": "Leer más"
+          }
+        ]
       }
     ],
     "ruta_noticia": "/yokohama-adquiere-trelleborg-wheel-systems/"
@@ -823,6 +1114,17 @@
         "id": 1,
         "tipo_seccion": "image",
         "contenido_seccion": "/images/backgrounds/pages/somos-mas-que-llantas.jpg"
+      },
+      {
+        "id": 2,
+        "tipo_seccion": "paragraph",
+        "contenido_seccion": "Lanzamos nuestro plan de actividades Motorsports 2023, en nuestro actual plan de gestión a mediano plazo el “Yokohama Transformación 2023 (YX2023)”, nos planteamos como objetivo maximizar los índices de ventas de nuestras marcas de alto valor agregado, ADVAN, y GEOLANDAR; en este plan YX2023 también se pretende posicionar nuestras marcas en actividades de deportes de motor como crucial para el esfuerzo de la compañía por desarrollar nuevas tecnologías de llantas que fortalecerán aún más las marcas ADVAN y GEOLANDAR.<br />Por lo tanto, en Yokohama estaremos  suministrando llantas para una amplia variedad de eventos de deportes de motor en Japón y en todo el mundo, desde eventos de primera categoría hasta eventos de base.<br />A continuación dejamos las categorías de las competencias en las que tendremos presencia a nivel internacional, te invitamos a estar pendiente de nuestras noticias y próximos eventos para que no te pierdas ningún detalle."
+      },
+      {
+        "id": 3,
+        "tipo_seccion": "image",
+        "contenido_seccion": "/images/backgrounds/pages/somos-mas-que-llantas.jpg",
+        "tamano_imagen": "medium"
       }
     ],
     "ruta_noticia": "/plan-yokohama-motor-sports-2023/"
@@ -839,6 +1141,64 @@
         "id": 1,
         "tipo_seccion": "image",
         "contenido_seccion": "/images/backgrounds/pages/somos-mas-que-llantas.jpg"
+      },
+      {
+        "id": 2,
+        "tipo_seccion": "title",
+        "contenido_seccion": "GEOLANDAR 1er lugar en el KING ♕ of Hammers 2023."
+      },
+      {
+        "id": 3,
+        "tipo_seccion": "paragraph",
+        "contenido_seccion": "Nos entusiasma compartir que un vehículo equipado con nuestras Geolandar terminó en primer lugar en la carrera todoterreno King of the Hammers celebrada en California del 4 al 11 de febrero.<br />El vehículo ganador en la carrera 4900 Can-Am UTV del evento, fue conducido por Kyle Chaney, en su entrevista al terminar la carrera el piloto comentó “mientras que otros competidores sufrieron pinchazos y desgarres en los costados de las llantas, nosotros no tuvimos ni un solo pinchazo en toda la carrera. Confiamos en el rendimiento y durabilidad de GEOLANDAR en cualquier condición.”<br />En el King of the Hammers de este año suministramos nuestras GEOLANDAR de Yokohama a más de 30 vehículos, entre las llantas utilizadas están los modelos Geolandar MT G003 especiales para terreno lodoso y las Geolandar SD especial para carreras todoterreno."
+      },
+      {
+        "id": 4,
+        "tipo_seccion": "twinImages",
+        "contenido_seccion": [
+          {
+            "id": 0,
+            "imagen": "/images/backgrounds/pages/centroamerica.png"
+          },
+          {
+            "id": 1,
+            "imagen_dos": "/images/backgrounds/pages/somos-mas-que-llantas.jpg"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "tipo_seccion": "paragraph",
+        "contenido_seccion": "The King of the Hammers, es la apertura de la temporada de la gira de carreras de la Serie Nacional Ultra4 la cual dura un año, ésta serie combina carreras en el desierto y rastreo de rocas, y se considera una de las carreras todoterreno más duras del mundo."
+      },
+      {
+        "id": 6,
+        "tipo_seccion": "twinImages",
+        "contenido_seccion": [
+          {
+            "id": 0,
+            "imagen": "/images/backgrounds/pages/centroamerica.png"
+          },
+          {
+            "id": 1,
+            "imagen_dos": "/images/backgrounds/pages/somos-mas-que-llantas.jpg"
+          }
+        ],
+        "tamano_imagen": "small"
+      },
+      {
+        "id": 7,
+        "tipo_seccion": "button",
+        "contenido_seccion": [
+          {
+            "id": 0,
+            "href": "https://www.yokohama.eu/news/3778/?cHash=536ebff73795029f4ee17f9588d5cd22"
+          },
+          {
+            "id": 1,
+            "texto_boton": "Leer más"
+          }
+        ]
       }
     ],
     "ruta_noticia": "/elementor-420194/"
@@ -855,6 +1215,50 @@
         "id": 1,
         "tipo_seccion": "image",
         "contenido_seccion": "/images/backgrounds/pages/somos-mas-que-llantas.jpg"
+      },
+      {
+        "id": 2,
+        "tipo_seccion": "paragraph",
+        "contenido_seccion": "Nuestras llantas todo terreno GEOLANDAR MT G003 equiparán a los vehículos participantes en la carrera todo terreno “KING OF THE HAMMERS” en su temporada 2023.<br />Esta carrera se realizó en California del 4 al 11 de febrero del 2023, y con ésta se inaugura la temporada anual de la Serie Nacional Ultra 4 la cual combina carreras todo terreno en desiertos y terrenos rocosos, es considerada una de las series de off road más extremas del mundo."
+      },
+      {
+        "id": 3,
+        "tipo_seccion": "image",
+        "contenido_seccion": "/images/backgrounds/pages/somos-mas-que-llantas.jpg",
+        "tamano_imagen": "small"
+      },
+      {
+        "id": 4,
+        "tipo_seccion": "paragraphImage",
+        "contenido_seccion": [
+          {
+            "id": 0,
+            "parrafo": "Las GEOLANDAR MT G003 ofrecen un rendimiento superior en cualquier superficie todo terreno, cuentan con una vida útil excepcionalmente larga.<br />Además, cuenta con un diseño robusto y agresivo que mejora la conducción haciéndola más cómoda en condiciones off-road."
+          },
+          {
+            "id": 1,
+            "imagen": "/images/backgrounds/pages/centroamerica.png"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "tipo_seccion": "paragraph",
+        "contenido_seccion": "Además de la King of the Hammers, nuestras Geolandar compiten alrededor del mundo a través de los años, han participado en las carreras todo terreno más importantes a nivel internacional, como lo son la Asia Cross Country Rally, así como en el campeonato SCORE SAN FELIPE 250 llevada a cabo en Baja California, México y en la METHOD Race Wheels “Casey Folks” desde Las Vegas hasta Reno; con su desempeño durante estas grandes series de carreras todo terreno nuestra marca GEOLANDAR de Yokohama demuestra ser “EL REY” ♕ del off road."
+      },
+      {
+        "id": 6,
+        "tipo_seccion": "button",
+        "contenido_seccion": [
+          {
+            "id": 0,
+            "href": "https://www.y-yokohama.com/release/?id=4162&lang=en"
+          },
+          {
+            "id": 1,
+            "texto_boton": "Leer más"
+          }
+        ]
       }
     ],
     "ruta_noticia": "/elementor-420043/"
@@ -871,6 +1275,45 @@
         "id": 1,
         "tipo_seccion": "image",
         "contenido_seccion": "/images/backgrounds/pages/somos-mas-que-llantas.jpg"
+      },
+      {
+        "id": 2,
+        "tipo_seccion": "image",
+        "contenido_seccion": "/images/backgrounds/pages/somos-mas-que-llantas.jpg",
+        "tamano_imagen": "medium"
+      },
+      {
+        "id": 3,
+        "tipo_seccion": "paragraph",
+        "contenido_seccion": "YOKOHAMA ha sido distinguida con el premio portugués “CINCO ESTRELLAS 2023” (Five Stars 2023) dentro de la categoría de neumáticos, por segundo año consecutivo."
+      },
+      {
+        "id": 4,
+        "tipo_seccion": "imageParagraph",
+        "contenido_seccion": [
+          {
+            "id": 0,
+            "imagen": "/images/backgrounds/pages/medio-ambiente.jpeg"
+          },
+          {
+            "id": 1,
+            "parrafo": "El “Cinco Estrellas” es un sistema que evalúa el nivel de satisfacción de los clientes sobre productos, servicios y marcas que existe entre los usuarios finales. Sigue la metodología más estricta del mercado y se apoya en una larga lista de criterios que influyen en la toma de decisiones y el proceso de compra de los consumidores. Al mismo tiempo, ayuda a identificar los mejores productos, servicios y marcas en Portugal.<br />Los resultados obtenidos dentro de las pruebas y estudios de mercado realizados dentro de esta evaluación nos permiten afirmar con orgullo que YOKOHAMA es realmente considerada una marca extraordinaria, como lo atestigua “Cinco Estrellas”."
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "tipo_seccion": "button",
+        "contenido_seccion": [
+          {
+            "id": 0,
+            "href": "https://www.yokohama.eu/news/3690/?cHash=539f1303370628f0387850ea31c3bd19"
+          },
+          {
+            "id": 1,
+            "texto_boton": "Leer más"
+          }
+        ]
       }
     ],
     "ruta_noticia": "/elementor-420029/"
@@ -887,6 +1330,31 @@
         "id": 1,
         "tipo_seccion": "image",
         "contenido_seccion": "/images/backgrounds/pages/somos-mas-que-llantas.jpg"
+      },
+      {
+        "id": 2,
+        "tipo_seccion": "paragraph",
+        "contenido_seccion": "En Yokohama nos enorgullece anunciar que una vez más hemos sido reconocidos por nuestro liderazgo en sostenibilidad corporativa por parte de la organización ambiental mundial sin fines de lucro CDP. La misma nombró, el 13 de diciembre, a Yokohama Rubber en su prestigiosa Lista A por abordar el cambio climático.<br />La selección de Yokohama Rubber reconoce los esfuerzos de la corporación para reducir las emisiones, mitigar los riesgos climáticos y desarrollar la economía baja en carbono, según las respuestas al cuestionario de cambio climático 2022 de CDP, que calificó a más de 10,000 empresas en todo el mundo. Esta es la cuarta vez que Yokohama Rubber está en la lista A, luego de su selección en 2016, 2019 y 2020.<br />CDP es una organización global sin fines de lucro, que tiene como objetivo lograr una economía sostenible alentando a las empresas y a los gobiernos a reducir sus emisiones de gases de efecto invernadero, salvaguardar los recursos hídricos y proteger los bosques. Asimismo, aprovecha el poder de los inversores y los compradores para motivar a las empresas a divulgar y gestionar sus impactos ambientales.<br />El proceso anual de calificación y divulgación ambiental de CDP es ampliamente reconocido como el «estándar de oro de la transparencia ambiental corporativa». En 2022, más de 680 inversores con más de 130 billones de dólares estadounidenses en activos y 280 compradores importantes con 6,4 billones de dólares estadounidenses en gastos de adquisición solicitaron a las empresas que divulgaran datos sobre impactos ambientales, riesgos y oportunidades a través de la plataforma de CDP. Respondieron un récord de 18 700 empresas.<br />Las iniciativas de sostenibilidad incluidas en Yokohama Transformation 2023 (YX2023), el plan de gestión a mediano plazo de Yokohama Rubber para los años fiscales 2021-2023, se basan en el concepto de «Cuidar el futuro».<br />Al implementar iniciativas de sostenibilidad bajo este concepto, Yokohama Rubber se esfuerza por ayudar a resolver problemas sociales a través de sus actividades comerciales. Yokohama Rubber también está implementando iniciativas relacionadas con el medio ambiente basadas en una estrategia de tres pilares enfocada en lograr la neutralidad de carbono, una economía circular y la coexistencia con la naturaleza, y ha establecido una hoja de ruta para lograr sus objetivos a mediano y largo plazo en cada uno de estos pilares.<br />El esfuerzo de la compañía para lograr la neutralidad de carbono está adoptando un enfoque doble que combina medidas para reducir las emisiones de carbono, así como actividades para contrarrestarlas, como el YOKOHAMA Forever Forest, que ha plantado árboles en las ubicaciones de Yokohama Rubber en Japón y en el extranjero. A través de tales esfuerzos, Yokohama Rubber pretende ser neutral en carbono en 2050."
+      },
+      {
+        "id": 3,
+        "tipo_seccion": "image",
+        "contenido_seccion": "/images/backgrounds/pages/somos-mas-que-llantas.jpg",
+        "tamano_imagen": "small"
+      },
+      {
+        "id": 4,
+        "tipo_seccion": "button",
+        "contenido_seccion": [
+          {
+            "id": 0,
+            "href": "https://www.yokohama.eu/es/noticias/3662/?cHash=394db8f3cbf7d65e3febe79e5a22b437"
+          },
+          {
+            "id": 1,
+            "texto_boton": "Leer más"
+          }
+        ]
       }
     ],
     "ruta_noticia": "/yokohama-lider-en-sostenibilidad/"
@@ -903,6 +1371,30 @@
         "id": 1,
         "tipo_seccion": "image",
         "contenido_seccion": "/images/backgrounds/pages/somos-mas-que-llantas.jpg"
+      },
+      {
+        "id": 2,
+        "tipo_seccion": "title",
+        "contenido_seccion": "Yokohama será proveedor de llantas para SUPER FÓRMULA 2023, elaboradas con material sostenible del 33%."
+      },
+      {
+        "id": 3,
+        "tipo_seccion": "twinImages",
+        "contenido_seccion": [
+          {
+            "id": 0,
+            "imagen": "/images/backgrounds/pages/centroamerica.png"
+          },
+          {
+            "id": 1,
+            "imagen_dos": "/images/backgrounds/pages/somos-mas-que-llantas.jpg"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "tipo_seccion": "paragraph",
+        "contenido_seccion": "Yokohama proveerá llantas de carreras ADVAN con un contenido de material sostenible como llantas de control para el campeonato japonés SUPER FORMULA a partir de la temporada 2023. La compañía ha completado el desarrollo de llantas para uso en condiciones secas y continuará desarrollando llantas para condiciones húmedas con el objetivo de suministrarlos a partir de 2023.<br />Las llantas de uso en secos que proveerá Yokohama Rubber utilizan caucho natural y varios compuestos de origen natural, incluido el aceite producido a partir de nueces de palma aceitera y cáscaras de naranja, así como hierro reciclado, caucho reciclado de neumáticos de desecho y caucho sintético producido mediante el método de balance de masa.<br />Como resultado, los materiales sostenibles representan aproximadamente el 33 % de todos los materiales utilizados en las llantas, que han demostrado un rendimiento equivalente al de las llantas estándar utilizados en las carreras de SUPER FORMULA 2022.<br />Las llantas de carreras fabricados con materiales sostenibles se suministrarán en apoyo del proyecto SUPER FORMULA NEXT 50 (SF NEXT 50) anunciado en octubre de 2021 por Japan Race Promotion Inc., que ejecuta la serie SUPER FORMULA. El proyecto SF NEXT 50 se promueve con la cooperación de varias empresas que comparten el objetivo común de crear una industria de automovilismo sostenible respondiendo a los cambios en el entorno que rodea a las industrias del automóvil y del automovilismo, incluida la promoción de los ODS y la neutralidad de carbono."
       }
     ],
     "ruta_noticia": "/elementor-420006/"
@@ -919,6 +1411,42 @@
         "id": 1,
         "tipo_seccion": "image",
         "contenido_seccion": "/images/backgrounds/pages/somos-mas-que-llantas.jpg"
+      },
+      {
+        "id": 2,
+        "tipo_seccion": "image",
+        "contenido_seccion": "/images/backgrounds/pages/somos-mas-que-llantas.jpg",
+        "tamano_imagen":"small"
+      },
+      {
+        "id": 3,
+        "tipo_seccion": "paragraph",
+        "contenido_seccion": "Travis Pastrana, miembro del equipo de Yokohama y superestrella de los deportes de acción, regresa al pasado en el video recién lanzado y extravagante de Gymkhana 2022. Conduciendo/saltando/volando por Florida en un Subaru GL wagon de 1983 altamente modificado, de 860 caballos de fuerza, con tracción en las cuatro ruedas y turboalimentado, apodado el “Family Huckster” y equipado con los neumáticos ADVAN A052® de primer nivel de Yokohama.<br />“Ya no nos sorprende nada de lo que hace Travis”, dijo Andrew Briggs, vicepresidente de marketing y gestión de productos de Yokohama Tire. “Gymkhana 2020 ha sido visto más de 51 millones de veces, por lo que Travis sabía que tendría que llevarlo a otro nivel para el nuevo video, y lo hizo. Y una vez más mostró al mundo lo que se puede hacer con un juego de neumáticos Yokohama ADVAN”."
+      },
+      {
+        "id": 4,
+        "tipo_seccion": "image",
+        "contenido_seccion": "/images/backgrounds/pages/somos-mas-que-llantas.jpg",
+        "tamano_imagen":"medium"
+      },
+      {
+        "id": 5,
+        "tipo_seccion": "button",
+        "contenido_seccion": [
+          {
+            "id": 0,
+            "href": "https://www.yokohamatire.com/newsroom/travis-pastrana-soars-on-yokohama-advan-tires-in-the-latest-gymkhana-video"
+          },
+          {
+            "id": 1,
+            "texto_boton": "Leer más"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "tipo_seccion": "video",
+        "contenido_seccion": "https://www.youtube.com/embed/LXzPkkQirnM?si=BsIecRxmG7WG__mq"
       }
     ],
     "ruta_noticia": "/elementor-419986/"
@@ -935,6 +1463,95 @@
         "id": 1,
         "tipo_seccion": "image",
         "contenido_seccion": "/images/backgrounds/pages/somos-mas-que-llantas.jpg"
+      },
+      {
+        "id": 2,
+        "tipo_seccion": "imageParagraph",
+        "contenido_seccion": [
+          {
+            "id": 0,
+            "imagen": "/images/backgrounds/pages/medio-ambiente.jpeg"
+          },
+          {
+            "id": 1,
+            "parrafo": "Nuestras Geolandar MT G003 ocuparon 4 de las primeras 5 posiciones en el AXCR 2022 que se llevó a cabo del 21 al 26 de Noviembre del 2022 iniciando en Tailandia y terminando en Camboya. Ésta competencia es el rally a campo traviesa más importante de Asia.<br />Los resultados demuestran una vez más el rendimiento superior y la excelente durabilidad que tienen las Geolandar MT G003 de Yokohama para las carreras todo terreno."
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "tipo_seccion": "paragraphImage",
+        "contenido_seccion": [
+          {
+            "id": 0,
+            "parrafo": "El campeonato general fue ganado por el equipo #105 del equipo Mitsubishi Ralliart (piloto Chayapon Yotha, copiloto Peerapong Sombutwong) compitiendo en un Mitsubishi Triton, una versión modificada de la camioneta pickup de una tonelada de Mitsubishi Motors Corporation, uno de los vehículos estratégicos globales de la compañía. Después de registrar el mejor tiempo en la Etapa 1 en el Día 2 del evento, el equipo #105 aumentó su ventaja sobre el equipo en segundo lugar a 7 minutos y 46 segundos en la Etapa 2 en el Día 3 y mantuvo su liderazgo por el resto de la la carrera. Otro equipo de Mitsubishi Ralliart, el n.º 118 (piloto Rifat Helmy Sungkar, copiloto Chupong Chaiwan) condujo su Triton equipado con neumáticos GEOLANDAR M/T G003 hasta el quinto puesto general."
+          },
+          {
+            "id": 1,
+            "imagen": "/images/backgrounds/pages/centroamerica.png"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "tipo_seccion": "imageParagraph",
+        "contenido_seccion": [
+          {
+            "id": 0,
+            "imagen": "/images/backgrounds/pages/medio-ambiente.jpeg"
+          },
+          {
+            "id": 1,
+            "parrafo": "Los finalistas generales en tercer y cuarto lugar fueron ambos equipos FORTUNER GEOLANDAR Takuma-GP, con el equipo n.° 116 (piloto Ikuo Hanawa, copiloto Hirokazu Somemiya) en tercer lugar y el equipo n.° 108 (piloto Takuma Aoki, copiloto Itthipon Simaraks) finalizando en 4to lugar. Los dos equipos corrieron una carrera estable y bien coordinada en Toyota Fortuners, un popular SUV con estructura vendida principalmente en Asia por Toyota Motor Corporation."
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "tipo_seccion": "paragraph",
+        "contenido_seccion": "Las GEOLANDAR M/T G003 ofrecen un rendimiento superior en todo tipo de superficies todo terreno durante una vida útil excepcionalmente larga. Además, éstas llantas tienen un diseño robusto y agresivo que mejora la sensación de conducción todo terreno. Nuestras GEOLANDAR de YOKOHAMA han demostrado su rendimiento todo terreno superior en muchas carreras a lo largo de los años, incluido un doblete en la clase 4800 en King Shocks Area BFE Beatdown 2021 y un primer puesto en la clase Trick Truck de 2021. King Shocks Laughlin Desert Classic: ambas carreras se llevan a cabo en los Estados Unidos."
+      },
+      {
+        "id": 6,
+        "tipo_seccion": "paragraphImage",
+        "contenido_seccion": [
+          {
+            "id": 0,
+            "parrafo": "El AXCR es un evento de rally autorizado oficialmente por la FIA (Federation Internationale de l’Automobile), similar al Rally Dakar. Las carreras anteriores de AXCR han llevado a los competidores a través de diversos terrenos, desde montañas, selvas, playas, tierras de plantaciones y circuitos de autos de carrera en muchos países asiáticos.<br />El AXCR de este año fue el primero en tres años después de que la pandemia de Covid-19 cancelara el evento en 2020 y 2021. El rally comenzó el 21 de noviembre en Tailandia y cubrió unos 1500 km hasta la línea de meta en Camboya cinco días después, el 26 de noviembre."
+          },
+          {
+            "id": 1,
+            "imagen": "/images/backgrounds/pages/centroamerica.png"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "tipo_seccion": "twinImages",
+        "contenido_seccion": [
+          {
+            "id": 0,
+            "imagen": "/images/backgrounds/pages/centroamerica.png"
+          },
+          {
+            "id": 1,
+            "imagen_dos": "/images/backgrounds/pages/somos-mas-que-llantas.jpg"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "tipo_seccion": "button",
+        "contenido_seccion": [
+          {
+            "id": 0,
+            "href": "https://yokohamallantas.com/elementor-419971/"
+          },
+          {
+            "id": 1,
+            "texto_boton": "Leer más"
+          }
+        ]
       }
     ],
     "ruta_noticia": "/elementor-419971/"

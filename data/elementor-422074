@@ -10,6 +10,49 @@
       "id": 1,
       "tipo_seccion": "image",
       "contenido_seccion": "/images/backgrounds/pages/somos-mas-que-llantas.jpg"
+    },
+    {
+      "id": 2,
+      "tipo_seccion": "paragraph",
+      "contenido_seccion": "YOKOHAMA presenta la gama de llantas “E+”: una marca patentada para vehículos eléctricos Premium. YOKOHAMA aplicará una nuevo estampado en el costado denominado “E+” a sus llantas diseñadas específicamente para autos, camiones y autobuses eléctricos."
+    },
+    {
+      "id": 3,
+      "tipo_seccion": "imageParagraph",
+      "contenido_seccion": [
+        {
+          "id": 0,
+          "imagen": "/images/backgrounds/pages/medio-ambiente.jpeg"
+        },
+        {
+          "id": 1,
+          "parrafo": "La nueva marca patentada “E+” es la respuesta de YOKOHAMA a la creciente demanda de llantas para vehículos eléctricos."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "tipo_seccion": "paragraph",
+      "contenido_seccion": "Estas llantas deben cumplir con varios requisitos, como por ejemplo tener la fuerza necesaria para soportar las cargas adicionales asociadas con las baterías eléctricas, el torque aplicado por el motor eléctrico, y también deben funcionar de manera silenciosa, así como contribuir al uso eficiente de la electricidad y la autonomía de conducción del vehículo."
+    },
+    {
+      "id": 5,
+      "tipo_seccion": "twinImages",
+      "contenido_seccion": [
+        {
+          "id": 0,
+          "imagen": "/images/backgrounds/pages/centroamerica.png"
+        },
+        {
+          "id": 1,
+          "imagen_dos": "/images/backgrounds/pages/somos-mas-que-llantas.jpg"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "tipo_seccion": "paragraph",
+      "contenido_seccion": "Además de proveer llantas de equipo original (OE) para vehículos eléctricos a los principales fabricantes de automóviles del mundo, en YOKOHAMA también se está acelerando el desarrollo de llantas de reemplazo para vehículos eléctricos mediante la aplicación de diversas e innovadoras tecnologías.El primer modelo de llantas YOKOHAMA que llevará la marca “E+” serán las nuevas ADVAN Sport EV, una llanta de verano de ultra alto desempeño, para vehículos eléctricos cuyo lanzamiento está previsto en Europa y otros mercados a partir del otoño de 2023."
     }
   ],
   "ruta_noticia": "/elementor-422074/"

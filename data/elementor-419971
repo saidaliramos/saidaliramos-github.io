@@ -10,6 +10,95 @@
       "id": 1,
       "tipo_seccion": "image",
       "contenido_seccion": "/images/backgrounds/pages/somos-mas-que-llantas.jpg"
+    },
+    {
+      "id": 2,
+      "tipo_seccion": "imageParagraph",
+      "contenido_seccion": [
+        {
+          "id": 0,
+          "imagen": "/images/backgrounds/pages/medio-ambiente.jpeg"
+        },
+        {
+          "id": 1,
+          "parrafo": "Nuestras Geolandar MT G003 ocuparon 4 de las primeras 5 posiciones en el AXCR 2022 que se llevó a cabo del 21 al 26 de Noviembre del 2022 iniciando en Tailandia y terminando en Camboya. Ésta competencia es el rally a campo traviesa más importante de Asia.<br />Los resultados demuestran una vez más el rendimiento superior y la excelente durabilidad que tienen las Geolandar MT G003 de Yokohama para las carreras todo terreno."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "tipo_seccion": "paragraphImage",
+      "contenido_seccion": [
+        {
+          "id": 0,
+          "parrafo": "El campeonato general fue ganado por el equipo #105 del equipo Mitsubishi Ralliart (piloto Chayapon Yotha, copiloto Peerapong Sombutwong) compitiendo en un Mitsubishi Triton, una versión modificada de la camioneta pickup de una tonelada de Mitsubishi Motors Corporation, uno de los vehículos estratégicos globales de la compañía. Después de registrar el mejor tiempo en la Etapa 1 en el Día 2 del evento, el equipo #105 aumentó su ventaja sobre el equipo en segundo lugar a 7 minutos y 46 segundos en la Etapa 2 en el Día 3 y mantuvo su liderazgo por el resto de la la carrera. Otro equipo de Mitsubishi Ralliart, el n.º 118 (piloto Rifat Helmy Sungkar, copiloto Chupong Chaiwan) condujo su Triton equipado con neumáticos GEOLANDAR M/T G003 hasta el quinto puesto general."
+        },
+        {
+          "id": 1,
+          "imagen": "/images/backgrounds/pages/centroamerica.png"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "tipo_seccion": "imageParagraph",
+      "contenido_seccion": [
+        {
+          "id": 0,
+          "imagen": "/images/backgrounds/pages/medio-ambiente.jpeg"
+        },
+        {
+          "id": 1,
+          "parrafo": "Los finalistas generales en tercer y cuarto lugar fueron ambos equipos FORTUNER GEOLANDAR Takuma-GP, con el equipo n.° 116 (piloto Ikuo Hanawa, copiloto Hirokazu Somemiya) en tercer lugar y el equipo n.° 108 (piloto Takuma Aoki, copiloto Itthipon Simaraks) finalizando en 4to lugar. Los dos equipos corrieron una carrera estable y bien coordinada en Toyota Fortuners, un popular SUV con estructura vendida principalmente en Asia por Toyota Motor Corporation."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "tipo_seccion": "paragraph",
+      "contenido_seccion": "Las GEOLANDAR M/T G003 ofrecen un rendimiento superior en todo tipo de superficies todo terreno durante una vida útil excepcionalmente larga. Además, éstas llantas tienen un diseño robusto y agresivo que mejora la sensación de conducción todo terreno. Nuestras GEOLANDAR de YOKOHAMA han demostrado su rendimiento todo terreno superior en muchas carreras a lo largo de los años, incluido un doblete en la clase 4800 en King Shocks Area BFE Beatdown 2021 y un primer puesto en la clase Trick Truck de 2021. King Shocks Laughlin Desert Classic: ambas carreras se llevan a cabo en los Estados Unidos."
+    },
+    {
+      "id": 6,
+      "tipo_seccion": "paragraphImage",
+      "contenido_seccion": [
+        {
+          "id": 0,
+          "parrafo": "El AXCR es un evento de rally autorizado oficialmente por la FIA (Federation Internationale de l’Automobile), similar al Rally Dakar. Las carreras anteriores de AXCR han llevado a los competidores a través de diversos terrenos, desde montañas, selvas, playas, tierras de plantaciones y circuitos de autos de carrera en muchos países asiáticos.<br />El AXCR de este año fue el primero en tres años después de que la pandemia de Covid-19 cancelara el evento en 2020 y 2021. El rally comenzó el 21 de noviembre en Tailandia y cubrió unos 1500 km hasta la línea de meta en Camboya cinco días después, el 26 de noviembre."
+        },
+        {
+          "id": 1,
+          "imagen": "/images/backgrounds/pages/centroamerica.png"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "tipo_seccion": "twinImages",
+      "contenido_seccion": [
+        {
+          "id": 0,
+          "imagen": "/images/backgrounds/pages/centroamerica.png"
+        },
+        {
+          "id": 1,
+          "imagen_dos": "/images/backgrounds/pages/somos-mas-que-llantas.jpg"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "tipo_seccion": "button",
+      "contenido_seccion": [
+        {
+          "id": 0,
+          "href": "https://yokohamallantas.com/elementor-419971/"
+        },
+        {
+          "id": 1,
+          "texto_boton": "Leer más"
+        }
+      ]
     }
   ],
   "ruta_noticia": "/elementor-419971/"

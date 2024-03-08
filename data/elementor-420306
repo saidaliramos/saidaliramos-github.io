@@ -10,6 +10,39 @@
       "id": 1,
       "tipo_seccion": "image",
       "contenido_seccion": "/images/backgrounds/pages/somos-mas-que-llantas.jpg"
+    },
+    {
+      "id": 2,
+      "tipo_seccion": "paragraph",
+      "contenido_seccion": "Un automóvil que funciona con llantas ADVAN de Yokohama fue el ganador general de la segunda ronda de la Nürburgring Endurance Series (NLS) 2023. El auto ganador fue equipado con llantas ADVAN A005 para condiciones secas y llantas ADVAN A006 para condiciones húmedas.<br />Como parte del DESAFÍO ADVAN de este año, que busca maximizar las ventas de neumáticos ADVAN durante el 45.º aniversario de la marca, una auto con colores ADVAN hizo un exitoso debut en la Ronda 2 de la NLS, compitiendo hacia la victoria y dejando una excelente y  fuerte impresión de los nuestras llantas ADVAN.<br />El automovil ganador fue el BMW M4 GT3 n.º 34 inscrito en la clase NLS SP9 Pro por Walkenhorst Motorsport, un equipo de carreras de clientes de BMW. Los pilotos Jakub Giermaziak y Jesse Krohn condujeron el auto n.° 34 al cuarto lugar en una pista mojada en la carrera clasificatoria y luego aceleraron a fondo de principio a fin sin ningún problema en una pista seca después de la lluvia en la carrera final, cruzando la línea de meta. 21.764 segundos por delante del coche del segundo lugar.<br />La NLS es una serie de carreras de resistencia que se lleva a cabo en la pista de carreras de Nürburgring, considerada por muchos como la pista más exigente del mundo. Las primeras rondas de la serie se posicionan como preludios de la carrera de 24 horas de Nürburgring.<br />Este año, unos 170 autos competirán en las nueve carreras de la NLS que se llevarán a cabo de marzo a octubre. Yokohama Rubber está suministrando neumáticos de carreras ADVAN a dos autos BMW M4 GT3 de color ADVAN que compiten en la clase SP9 Pro, incluido el auto #34 ganador de la Ronda 2. La compañía también tiene como objetivo ganar el campeonato general en la carrera de 24 horas de Nürburgring de mayo, donde apoyará a los mismos dos autos."
+    },
+    {
+      "id": 3,
+      "tipo_seccion": "twinImages",
+      "contenido_seccion": [
+        {
+          "id": 0,
+          "imagen": "/images/backgrounds/pages/centroamerica.png"
+        },
+        {
+          "id": 1,
+          "imagen_dos": "/images/backgrounds/pages/somos-mas-que-llantas.jpg"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "tipo_seccion": "button",
+      "contenido_seccion": [
+        {
+          "id": 0,
+          "href": "https://www.yokohama.eu/news/3840/?cHash=58f6847fa5c6788dde66f7fcd0cd721b"
+        },
+        {
+          "id": 1,
+          "texto_boton": "Leer más"
+        }
+      ]
     }
   ],
   "ruta_noticia": "/elementor-420306/"

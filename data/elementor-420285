@@ -10,6 +10,39 @@
       "id": 1,
       "tipo_seccion": "image",
       "contenido_seccion": "/images/backgrounds/pages/somos-mas-que-llantas.jpg"
+    },
+    {
+      "id": 2,
+      "tipo_seccion": "paragraph",
+      "contenido_seccion": "En Yokohama nos entusiasma compartir con ustedes que por tercera temporada consecutiva, Yokohama se une a este gran evento como socio oficial de neumáticos y patrocinador de la serie de carreras de autos deportivos organizada por el fabricante de autos alemán Porsche y sancionada por la USAC, con carreras en Estados Unidos y Canadá.<br />“Nos sentimos nuevamente honrados de unir fuerzas con PMNA y USAC en las carreras monomarca Porsche Sprint Challenge en los Estados Unidos”, dijo Patricia Wall, gerente de deportes de motor de Yokohama. “Esta emocionante serie encaja perfectamente con nuestro programa general de deportes de motor y presenta otra excelente oportunidad para destacar nuestros slicks de carreras ADVAN® en algunas de las carreras más competitivas de América del Norte”.<br />“La serie Porsche Sprint Challenge North America está entrando en su tercera temporada en 2023”, dijo el presidente de USAC, Kevin Miller, “y el apoyo de Yokohama ha sido monumental en la construcción de una de las series monomarca más grandes de los EE. UU. ¡Esperamos lanzar nuestro campeonato de 2023 en Sebring y competir en los lugares de carreras más emblemáticos de Estados Unidos durante toda la temporada y coronar a nuestros campeones de 2023 en el Indianapolis Motor Speedway en octubre!”.<br />El Porsche Sprint Challenge North America by Yokohama es parte de la extensa lista de Yokohama de actividades de deportes de motor con sede en América del Norte para 2023, tanto dentro como fuera de la carretera."
+    },
+    {
+      "id": 3,
+      "tipo_seccion": "twinImages",
+      "contenido_seccion": [
+        {
+          "id": 0,
+          "imagen": "/images/backgrounds/pages/centroamerica.png"
+        },
+        {
+          "id": 1,
+          "imagen_dos": "/images/backgrounds/pages/somos-mas-que-llantas.jpg"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "tipo_seccion": "button",
+      "contenido_seccion": [
+        {
+          "id": 0,
+          "href": "https://www.yokohamatire.com/newsroom/yokohama-tire-returns-as-sponsor-of-the-porsche-sprint-challenge-north-america-by-yokohama"
+        },
+        {
+          "id": 1,
+          "texto_boton": "Leer más"
+        }
+      ]
     }
   ],
   "ruta_noticia": "/elementor-420285/"

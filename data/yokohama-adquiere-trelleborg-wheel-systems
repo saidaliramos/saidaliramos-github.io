@@ -10,6 +10,37 @@
       "id": 1,
       "tipo_seccion": "image",
       "contenido_seccion": "/images/backgrounds/pages/somos-mas-que-llantas.jpg"
+    },
+    {
+      "id": 2,
+      "tipo_seccion": "image",
+      "contenido_seccion": "/images/backgrounds/pages/somos-mas-que-llantas.jpg",
+      "tamano_imagen": "small"
+    },
+    {
+      "id": 3,
+      "tipo_seccion": "paragraph",
+      "contenido_seccion": "Nos es grato compartir que hemos finalizado exitosamente la adquisición de Trelleborg Wheel Systems (TWS) por parte de Yokohama Rubber Co. Ltd. (YRC).<br />Trelleborg Wheel System es una empresa dedicada a la fabricación y venta de neumáticos fuera de carretera (OHT) para maquinaria agrícola e industrial. De tal forma que TWS formará parte de la división OHT de Yokohama a nivel internacional, y operará de forma independiente bajo el nombre “Yokohama TWS”.<br />La adquisición de Trelleborg Wheel Systems permitirá a la Corporación Yokohama consolidar su lugar entre los principales fabricantes de neumáticos a nivel mundial. La división OHT (llantas fuera de carretera), ahora se encuentra firmemente entre los tres principales fabricantes a nivel global que atienden a la industria OHT y es ahora el número 1 en el segmento agrícola."
+    },
+    {
+      "id": 4,
+      "tipo_seccion": "image",
+      "contenido_seccion": "/images/backgrounds/pages/somos-mas-que-llantas.jpg",
+      "tamano_imagen": "small"
+    },
+    {
+      "id": 5,
+      "tipo_seccion": "button",
+      "contenido_seccion": [
+        {
+          "id": 0,
+          "href": "https://www.y-yokohama.com/release/?id=4024&lang=en"
+        },
+        {
+          "id": 1,
+          "texto_boton": "Leer más"
+        }
+      ]
     }
   ],
   "ruta_noticia": "/yokohama-adquiere-trelleborg-wheel-systems/"

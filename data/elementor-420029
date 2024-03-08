@@ -10,6 +10,45 @@
       "id": 1,
       "tipo_seccion": "image",
       "contenido_seccion": "/images/backgrounds/pages/somos-mas-que-llantas.jpg"
+    },
+    {
+      "id": 2,
+      "tipo_seccion": "image",
+      "contenido_seccion": "/images/backgrounds/pages/somos-mas-que-llantas.jpg",
+      "tamano_imagen": "medium"
+    },
+    {
+      "id": 3,
+      "tipo_seccion": "paragraph",
+      "contenido_seccion": "YOKOHAMA ha sido distinguida con el premio portugués “CINCO ESTRELLAS 2023” (Five Stars 2023) dentro de la categoría de neumáticos, por segundo año consecutivo."
+    },
+    {
+      "id": 4,
+      "tipo_seccion": "imageParagraph",
+      "contenido_seccion": [
+        {
+          "id": 0,
+          "imagen": "/images/backgrounds/pages/medio-ambiente.jpeg"
+        },
+        {
+          "id": 1,
+          "parrafo": "El “Cinco Estrellas” es un sistema que evalúa el nivel de satisfacción de los clientes sobre productos, servicios y marcas que existe entre los usuarios finales. Sigue la metodología más estricta del mercado y se apoya en una larga lista de criterios que influyen en la toma de decisiones y el proceso de compra de los consumidores. Al mismo tiempo, ayuda a identificar los mejores productos, servicios y marcas en Portugal.<br />Los resultados obtenidos dentro de las pruebas y estudios de mercado realizados dentro de esta evaluación nos permiten afirmar con orgullo que YOKOHAMA es realmente considerada una marca extraordinaria, como lo atestigua “Cinco Estrellas”."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "tipo_seccion": "button",
+      "contenido_seccion": [
+        {
+          "id": 0,
+          "href": "https://www.yokohama.eu/news/3690/?cHash=539f1303370628f0387850ea31c3bd19"
+        },
+        {
+          "id": 1,
+          "texto_boton": "Leer más"
+        }
+      ]
     }
   ],
   "ruta_noticia": "/elementor-420029/"

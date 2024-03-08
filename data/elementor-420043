@@ -10,6 +10,50 @@
       "id": 1,
       "tipo_seccion": "image",
       "contenido_seccion": "/images/backgrounds/pages/somos-mas-que-llantas.jpg"
+    },
+    {
+      "id": 2,
+      "tipo_seccion": "paragraph",
+      "contenido_seccion": "Nuestras llantas todo terreno GEOLANDAR MT G003 equiparán a los vehículos participantes en la carrera todo terreno “KING OF THE HAMMERS” en su temporada 2023.<br />Esta carrera se realizó en California del 4 al 11 de febrero del 2023, y con ésta se inaugura la temporada anual de la Serie Nacional Ultra 4 la cual combina carreras todo terreno en desiertos y terrenos rocosos, es considerada una de las series de off road más extremas del mundo."
+    },
+    {
+      "id": 3,
+      "tipo_seccion": "image",
+      "contenido_seccion": "/images/backgrounds/pages/somos-mas-que-llantas.jpg",
+      "tamano_imagen": "small"
+    },
+    {
+      "id": 4,
+      "tipo_seccion": "paragraphImage",
+      "contenido_seccion": [
+        {
+          "id": 0,
+          "parrafo": "Las GEOLANDAR MT G003 ofrecen un rendimiento superior en cualquier superficie todo terreno, cuentan con una vida útil excepcionalmente larga.<br />Además, cuenta con un diseño robusto y agresivo que mejora la conducción haciéndola más cómoda en condiciones off-road."
+        },
+        {
+          "id": 1,
+          "imagen": "/images/backgrounds/pages/centroamerica.png"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "tipo_seccion": "paragraph",
+      "contenido_seccion": "Además de la King of the Hammers, nuestras Geolandar compiten alrededor del mundo a través de los años, han participado en las carreras todo terreno más importantes a nivel internacional, como lo son la Asia Cross Country Rally, así como en el campeonato SCORE SAN FELIPE 250 llevada a cabo en Baja California, México y en la METHOD Race Wheels “Casey Folks” desde Las Vegas hasta Reno; con su desempeño durante estas grandes series de carreras todo terreno nuestra marca GEOLANDAR de Yokohama demuestra ser “EL REY” ♕ del off road."
+    },
+    {
+      "id": 6,
+      "tipo_seccion": "button",
+      "contenido_seccion": [
+        {
+          "id": 0,
+          "href": "https://www.y-yokohama.com/release/?id=4162&lang=en"
+        },
+        {
+          "id": 1,
+          "texto_boton": "Leer más"
+        }
+      ]
     }
   ],
   "ruta_noticia": "/elementor-420043/"

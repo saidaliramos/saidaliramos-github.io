@@ -10,6 +10,64 @@
       "id": 1,
       "tipo_seccion": "image",
       "contenido_seccion": "/images/backgrounds/pages/somos-mas-que-llantas.jpg"
+    },
+    {
+      "id": 2,
+      "tipo_seccion": "title",
+      "contenido_seccion": "GEOLANDAR 1er lugar en el KING ♕ of Hammers 2023."
+    },
+    {
+      "id": 3,
+      "tipo_seccion": "paragraph",
+      "contenido_seccion": "Nos entusiasma compartir que un vehículo equipado con nuestras Geolandar terminó en primer lugar en la carrera todoterreno King of the Hammers celebrada en California del 4 al 11 de febrero.<br />El vehículo ganador en la carrera 4900 Can-Am UTV del evento, fue conducido por Kyle Chaney, en su entrevista al terminar la carrera el piloto comentó “mientras que otros competidores sufrieron pinchazos y desgarres en los costados de las llantas, nosotros no tuvimos ni un solo pinchazo en toda la carrera. Confiamos en el rendimiento y durabilidad de GEOLANDAR en cualquier condición.”<br />En el King of the Hammers de este año suministramos nuestras GEOLANDAR de Yokohama a más de 30 vehículos, entre las llantas utilizadas están los modelos Geolandar MT G003 especiales para terreno lodoso y las Geolandar SD especial para carreras todoterreno."
+    },
+    {
+      "id": 4,
+      "tipo_seccion": "twinImages",
+      "contenido_seccion": [
+        {
+          "id": 0,
+          "imagen": "/images/backgrounds/pages/centroamerica.png"
+        },
+        {
+          "id": 1,
+          "imagen_dos": "/images/backgrounds/pages/somos-mas-que-llantas.jpg"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "tipo_seccion": "paragraph",
+      "contenido_seccion": "The King of the Hammers, es la apertura de la temporada de la gira de carreras de la Serie Nacional Ultra4 la cual dura un año, ésta serie combina carreras en el desierto y rastreo de rocas, y se considera una de las carreras todoterreno más duras del mundo."
+    },
+    {
+      "id": 6,
+      "tipo_seccion": "twinImages",
+      "contenido_seccion": [
+        {
+          "id": 0,
+          "imagen": "/images/backgrounds/pages/centroamerica.png"
+        },
+        {
+          "id": 1,
+          "imagen_dos": "/images/backgrounds/pages/somos-mas-que-llantas.jpg"
+        }
+      ],
+      "tamano_imagen": "small"
+    },
+    {
+      "id": 7,
+      "tipo_seccion": "button",
+      "contenido_seccion": [
+        {
+          "id": 0,
+          "href": "https://www.yokohama.eu/news/3778/?cHash=536ebff73795029f4ee17f9588d5cd22"
+        },
+        {
+          "id": 1,
+          "texto_boton": "Leer más"
+        }
+      ]
     }
   ],
   "ruta_noticia": "/elementor-420194/"

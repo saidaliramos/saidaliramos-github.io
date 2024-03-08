@@ -10,6 +10,42 @@
       "id": 1,
       "tipo_seccion": "image",
       "contenido_seccion": "/images/backgrounds/pages/somos-mas-que-llantas.jpg"
+    },
+    {
+      "id": 2,
+      "tipo_seccion": "image",
+      "contenido_seccion": "/images/backgrounds/pages/somos-mas-que-llantas.jpg",
+      "tamano_imagen":"small"
+    },
+    {
+      "id": 3,
+      "tipo_seccion": "paragraph",
+      "contenido_seccion": "Travis Pastrana, miembro del equipo de Yokohama y superestrella de los deportes de acción, regresa al pasado en el video recién lanzado y extravagante de Gymkhana 2022. Conduciendo/saltando/volando por Florida en un Subaru GL wagon de 1983 altamente modificado, de 860 caballos de fuerza, con tracción en las cuatro ruedas y turboalimentado, apodado el “Family Huckster” y equipado con los neumáticos ADVAN A052® de primer nivel de Yokohama.<br />“Ya no nos sorprende nada de lo que hace Travis”, dijo Andrew Briggs, vicepresidente de marketing y gestión de productos de Yokohama Tire. “Gymkhana 2020 ha sido visto más de 51 millones de veces, por lo que Travis sabía que tendría que llevarlo a otro nivel para el nuevo video, y lo hizo. Y una vez más mostró al mundo lo que se puede hacer con un juego de neumáticos Yokohama ADVAN”."
+    },
+    {
+      "id": 4,
+      "tipo_seccion": "image",
+      "contenido_seccion": "/images/backgrounds/pages/somos-mas-que-llantas.jpg",
+      "tamano_imagen":"medium"
+    },
+    {
+      "id": 5,
+      "tipo_seccion": "button",
+      "contenido_seccion": [
+        {
+          "id": 0,
+          "href": "https://www.yokohamatire.com/newsroom/travis-pastrana-soars-on-yokohama-advan-tires-in-the-latest-gymkhana-video"
+        },
+        {
+          "id": 1,
+          "texto_boton": "Leer más"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "tipo_seccion": "video",
+      "contenido_seccion": "https://www.youtube.com/embed/LXzPkkQirnM?si=BsIecRxmG7WG__mq"
     }
   ],
   "ruta_noticia": "/elementor-419986/"
